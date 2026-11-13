@@ -1,0 +1,486 @@
+{
+  "checked_skipped_count": 28,
+  "failed_ids_retried": 0,
+  "deleted_catalog_pending_retried": 0,
+  "records": [
+    {
+      "id": "019f9ee3-2af0-7bf3-bd65-6dca07f3c4b6",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 3,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/26/rollout-2026-07-26T22-45-15-019f9ee3-2af0-7bf3-bd65-6dca07f3c4b6.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 121384960,
+          "size": 121381796,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f70d0-5a98-72c2-b589-2a750166242c",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/18/rollout-2026-07-18T00-02-10-019f70d0-5a98-72c2-b589-2a750166242c.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 40554496,
+          "size": 40553871,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f3779-2969-7d61-8ad8-fec886551ad1",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/archived_sessions/rollout-2026-07-06T20-48-35-019f3779-2969-7d61-8ad8-fec886551ad1.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 30289920,
+          "size": 30289782,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a08609-9e35-7481-802b-dc0582b8d458",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f8354-e5dc-7811-a3f5-ea5e081764e6",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 3,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/21/rollout-2026-07-21T14-20-07-019f8354-e5dc-7811-a3f5-ea5e081764e6.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 8835072,
+          "size": 8831737,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0f72f-03b9-77c3-8e8a-837a994a7504",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0cbee-f814-7b70-b692-6267496fe865",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 0,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/09/23/rollout-2026-09-23T09-43-51-01a0cbee-f814-7b70-b692-6267496fe865.jsonl",
+          "exists": true,
+          "open": true,
+          "allocated": 5439488,
+          "size": 4393140,
+          "unchanged_frozen": false,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "currently open file",
+        "changed after frozen authorization"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a02c63-f78b-7ef2-8f3c-e8cf1e6fa412",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f8a24-0e40-7213-ad0d-6e1bb5b88fde",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/22/rollout-2026-07-22T22-04-06-019f8a24-0e40-7213-ad0d-6e1bb5b88fde.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 3297280,
+          "size": 3294972,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f70a0-afa8-7be0-93ae-1ed79cb75409",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/17/rollout-2026-07-17T23-10-06-019f70a0-afa8-7be0-93ae-1ed79cb75409.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 1413120,
+          "size": 1412438,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0db49-a268-7b41-b4ba-f450d6e36e8c",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f471a-05e3-72e3-b87c-239bf6db9128",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/archived_sessions/rollout-2026-07-09T21-38-35-019f471a-05e3-72e3-b87c-239bf6db9128.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 1351680,
+          "size": 1350176,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a062dc-23a3-7ab3-babb-f2fb3e56be27",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/09/03/rollout-2026-09-03T00-03-09-01a062dc-23a3-7ab3-babb-f2fb3e56be27.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 958464,
+          "size": 955580,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0f130-e6c9-73a3-a44e-5c066ad0a965",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0e148-c47e-72e2-a4e2-333d804cd79a",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0cc11-4309-7383-adc2-833355539061",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 0,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/09/23/rollout-2026-09-23T10-21-18-01a0cc11-4309-7383-adc2-833355539061.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 352256,
+          "size": 349495,
+          "unchanged_frozen": false,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "changed after frozen authorization"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a0231b-b910-74d3-9d6d-2c41e9a2cad6",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f737c-53f1-74e3-bcc1-2789f01a0ce8",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/18/rollout-2026-07-18T12-29-15-019f737c-53f1-74e3-bcc1-2789f01a0ce8.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 176128,
+          "size": 173371,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f7378-c7f8-7870-ad05-c050d5975bec",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/18/rollout-2026-07-18T12-25-23-019f7378-c7f8-7870-ad05-c050d5975bec.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 176128,
+          "size": 173371,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f7098-802d-71a3-adfc-af3b910023e8",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/17/rollout-2026-07-17T23-01-10-019f7098-802d-71a3-adfc-af3b910023e8.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 172032,
+          "size": 168908,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a084f8-0f56-7f83-9766-23aa6959fc91",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a022f0-8908-7f32-93bc-a7d79f41e09a",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a02c3d-7e49-7383-8e29-904c5517164f",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f70a0-58fb-7581-854f-9fb9afac2d62",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/17/rollout-2026-07-17T23-09-44-019f70a0-58fb-7581-854f-9fb9afac2d62.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 20480,
+          "size": 18803,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "019f8a23-f3a3-7301-809a-36fb8aae42a3",
+      "group": "P03",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/sessions/2026/07/22/rollout-2026-07-22T22-03-59-019f8a23-f3a3-7301-809a-36fb8aae42a3.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 20480,
+          "size": 18803,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a05d73-6c3a-76a1-a98c-166f87433dfc",
+      "group": "P03",
+      "state_exists": false,
+      "in_progress_history_count": 0,
+      "file_metadata": [],
+      "current_blockers": [
+        "state identity absent; orphan native support still unverified"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a07715-8ec6-7f02-a09b-703de0a7f785",
+      "group": "P04",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/archived_sessions/rollout-2026-09-06T22-18-16-01a07715-8ec6-7f02-a09b-703de0a7f785.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 61689856,
+          "size": 61689463,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    },
+    {
+      "id": "01a01d68-60c7-7511-926c-169de11776fd",
+      "group": "P04",
+      "state_exists": true,
+      "in_progress_history_count": 1,
+      "file_metadata": [
+        {
+          "path": "/Users/USER/.codex/archived_sessions/rollout-2026-08-20T12-22-54-01a01d68-60c7-7511-926c-169de11776fd.jsonl",
+          "exists": true,
+          "open": false,
+          "allocated": 4358144,
+          "size": 4355864,
+          "unchanged_frozen": true,
+          "symlink": false
+        }
+      ],
+      "current_blockers": [
+        "history inProgress; live idle state UNKNOWN"
+      ],
+      "could_pass_static_guards": false
+    }
+  ]
+}

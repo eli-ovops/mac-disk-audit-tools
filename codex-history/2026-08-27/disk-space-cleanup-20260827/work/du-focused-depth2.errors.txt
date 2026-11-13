@@ -1,0 +1,35 @@
+du: /Users/USER/Library/Application Support/MobileSync: Operation not permitted
+du: /Users/USER/Library/Application Support/CallHistoryTransactions: Operation not permitted
+du: /Users/USER/Library/Application Support/CloudDocs: Operation not permitted
+du: /Users/USER/Library/Application Support/com.apple.sharedfilelist: Operation not permitted
+du: /Users/USER/Library/Application Support/Knowledge: Operation not permitted
+du: /Users/USER/Library/Application Support/com.apple.TCC: Operation not permitted
+du: /Users/USER/Library/Application Support/FileProvider: Operation not permitted
+du: /Users/USER/Library/Application Support/AddressBook: Operation not permitted
+du: /Users/USER/Library/Application Support/FaceTime: Operation not permitted
+du: /Users/USER/Library/Application Support/DifferentialPrivacy: Operation not permitted
+du: /Users/USER/Library/Application Support/com.apple.avfoundation/Frecents: Operation not permitted
+du: /Users/USER/Library/Application Support/CallHistoryDB: Operation not permitted
+du: /Users/USER/Library/Caches/familycircled: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.HomeKit: Operation not permitted
+du: /Users/USER/Library/Caches/CloudKit: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.Safari: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.containermanagerd: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.Safari.SafeBrowsing: Operation not permitted
+du: /Users/USER/Library/Caches/FamilyCircle: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.homed: Operation not permitted
+du: /Users/USER/Library/Caches/com.apple.ap.adprivacyd: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.VoiceMemos: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.archiveutility: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.Maps/Data/Maps: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.Home: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.Safari: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.mail: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.MobileSMS: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.Notes: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.stocks: Operation not permitted
+du: /Users/USER/Library/Containers/com.apple.Safari.WebApp: Operation not permitted
+real 63.42
+user 0.79
+sys 28.98

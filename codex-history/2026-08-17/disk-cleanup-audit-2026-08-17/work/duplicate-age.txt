@@ -1,0 +1,2 @@
+-- controlled duplicate hashes (explicit same-name candidate pairs only) --
+-- age signal: selected top-level files >90 days and >1MiB --

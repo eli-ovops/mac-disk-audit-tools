@@ -1,0 +1,37 @@
+{
+  "time": "2026-10-04T22:31:34.433798+08:00",
+  "target": "/Users/USER/Library/pnpm/store/v10",
+  "allocated_bytes": 954753024,
+  "search_roots": [
+    "/Users/USER/Documents/eli",
+    "/Users/USER/Documents/app",
+    "/Users/USER/Documents/原点向量",
+    "/Volumes/EXTERNAL/app"
+  ],
+  "search_depth_max": 3,
+  "excluded": [
+    "node_modules traversal (only .modules.yaml checked)",
+    ".git",
+    ".build",
+    "dist",
+    ".next",
+    ".npm",
+    ".cache"
+  ],
+  "checked_metadata_paths": [
+    "/Volumes/EXTERNAL/app/PetSocial/Tests/node_modules/.modules.yaml",
+    "/Volumes/EXTERNAL/app/LocalStampMVP/travel-mobile-prototype/.npmrc"
+  ],
+  "store_references": [],
+  "symlink_count": 62,
+  "symlink_targets_outside_store_count": 62,
+  "open_target_count": 0,
+  "lsof_returncode": 0,
+  "coverage": "Known roots only; other projects/custom configuration/runtime future dependency UNKNOWN",
+  "deleted": false,
+  "recommendation": "Optional exact v10 removal only after accepting loss of offline package reuse; no proven current v10 reference in checked metadata; dependency coverage incomplete; reinstall may require registry access and exact package versions, availability/time UNKNOWN",
+  "existing_registered_project_paths": [
+    "/Users/USER/Documents/app/周易留白阅读原型"
+  ],
+  "registered_project_store_references": []
+}

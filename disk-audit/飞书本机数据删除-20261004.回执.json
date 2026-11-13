@@ -1,0 +1,300 @@
+{
+  "time": "2026-10-04T21:38:57.509639+08:00",
+  "guards": [],
+  "targets": [
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/ChromeFeatureState",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/NativeMessagingHosts",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/First Run",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/GrShaderCache",
+      "allocated_bytes": 6823936
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Last Version",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/logout_token",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/AutofillStates",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/TpcdMetadata",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/PrivacySandboxAttestationsPreloaded",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/first_party_sets.db",
+      "allocated_bytes": 49152
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Remote_Feature_7429708542049058817",
+      "allocated_bytes": 28672
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.preload.db",
+      "allocated_bytes": 1048576
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/meego",
+      "allocated_bytes": 163840
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/BrowserMetrics-spare.pma",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/CertificateRevocation",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Remote_Feature_7652357630777641931",
+      "allocated_bytes": 28672
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.enc.db-shm",
+      "allocated_bytes": 32768
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/OnDeviceHeadSuggestModel",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Variations",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage_kv",
+      "allocated_bytes": 8192
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/dynamic_resource",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/media_center",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/PC_Gadget",
+      "allocated_bytes": 27090944
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Remote_Feature_7615595945643773145",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.enc.db-wal",
+      "allocated_bytes": 4255744
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/FirstPartySetsPreloaded",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.preload.db-shm",
+      "allocated_bytes": 32768
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/SSLErrorAssistant",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/PC_Card",
+      "allocated_bytes": 3293184
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/ShaderCache",
+      "allocated_bytes": 561152
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/exception_config.json",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Default",
+      "allocated_bytes": 532480
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.db",
+      "allocated_bytes": 458752
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/ZxcvbnData",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.preload.db-wal",
+      "allocated_bytes": 5246976
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/passport_storage",
+      "allocated_bytes": 16384
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Remote_State",
+      "allocated_bytes": 12288
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/first_party_sets.db-journal",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/SafetyTips",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/DeviceInfo.json",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/OriginTrials",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/MEIPreload",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/FileTypePolicies",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Local State",
+      "allocated_bytes": 8192
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/aha",
+      "allocated_bytes": 62992384
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/GraphiteDawnCache",
+      "allocated_bytes": 561152
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/IronDefault",
+      "allocated_bytes": 32768
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/iron",
+      "allocated_bytes": 35524608
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/segmentation_platform",
+      "allocated_bytes": 49152
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.enc.db",
+      "allocated_bytes": 262144
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.db-wal",
+      "allocated_bytes": 4198400
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/op-app-icon",
+      "allocated_bytes": 12288
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Subresource Filter",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/net_config",
+      "allocated_bytes": 4096
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_storage.db-shm",
+      "allocated_bytes": 32768
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Crowd Deny",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/CodeCache",
+      "allocated_bytes": 18575360
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/PKIMetadata",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/persistent_passport_info_v2",
+      "allocated_bytes": 8192
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/Global",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/OptimizationHints",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/TrustTokenKeyCommitments",
+      "allocated_bytes": 0
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/LarkShell/sdk_storage",
+      "allocated_bytes": 1490919424
+    },
+    {
+      "path": "/Users/USER/Library/Application Support/com.electron.lark.font_workaround",
+      "allocated_bytes": 78229504
+    },
+    {
+      "path": "/Users/USER/Library/Caches/com.electron.lark.helper",
+      "allocated_bytes": 3362816
+    },
+    {
+      "path": "/Users/USER/Library/Preferences/com.electron.lark.helper.plist",
+      "allocated_bytes": 20480
+    },
+    {
+      "path": "/Users/USER/Library/Preferences/com.electron.lark.iron.plist",
+      "allocated_bytes": 57344
+    },
+    {
+      "path": "/Users/USER/Library/Preferences/com.electron.lark.plist",
+      "allocated_bytes": 4096
+    }
+  ],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 25190848
+  },
+  "deleted": true,
+  "preserved": [
+    "LarkShell/update including Lark.app",
+    "Application Support/lark-cli (ownership UNKNOWN)",
+    "Keychain",
+    "cloud data"
+  ],
+  "user_data_intentionally_abandoned": true,
+  "skipped_symlinks": [
+    "/Users/USER/Library/Application Support/LarkShell/Remote_Feature_Default"
+  ],
+  "all_targets_absent": true,
+  "app_preserved": true,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 26909076
+  },
+  "net_available_bytes": 1759465472
+}

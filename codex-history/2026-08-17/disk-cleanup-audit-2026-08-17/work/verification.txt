@@ -1,0 +1,13 @@
+# 交付前验证（2026-08-17）
+
+- `outputs/本机缓存与闲置文件只读盘点.md` 存在，85 行。
+- `outputs/本机缓存与闲置文件只读盘点.csv` 存在，21 行（1 个表头 + 20 个数据行），awk 解析表头 11 列。
+- CSV 数据行均以 A/B/C/D 分类和绝对路径开头；当前计数为 A=0、B=9、C=7、D=4，共 20 个数据行；报告与 CSV 均在本任务独立 `outputs/` 目录，不在被扫描项目内。
+- B 类按 CSV 字节字段合计 4,731,866,440 bytes（约 4.41 GiB 毛候选）；两个同大小 DMG 不可同时计作重复删除收益，扣除一份 333,873,316 bytes 后的理论去重上限为 4,397,993,124 bytes（约 4.10 GiB）。两者均不是已批准或实际可释放空间。
+- Markdown 汇总已与 CSV 计数一致：A=0、B=9、C=7、D=4；D 类已修正为 4 项。
+- `work/baseline.txt`、`work/dir-sizes.txt`、`work/large-files.txt`、`work/artifact-scan.txt`、`work/candidate-metadata.txt`、`work/current-recheck.txt`、`work/age-scan.txt`、`work/recheck.txt` 均为本次只读命令证据。
+- 未执行删除、移动、重命名、压缩、归档、清缓存、卸载、Git 或外部写入；未调用 DeepSeek Harness、未派子 agent。
+- 已记录 `.Trash` 的 `Operation not permitted`，未绕过权限。
+- 已记录扫描期间 Downloads 与 df 状态漂移；瞬时消失项不作为当前可批准路径。
+- 活动风险核验发现 PID 49890 正在写入 `/Users/USER/Library/Caches/Codex`，因此 C 保护。
+- 结论：只读盘点交付完成；没有执行清理；下一步必须等待用户对精确绝对路径批准。

@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-10-04T21:24:33.036913+08:00",
+  "items": [
+    {
+      "path": "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/ModuleCache",
+      "exists": true,
+      "allocated_bytes": 158146560,
+      "regular_files": 199,
+      "symlinks": 0,
+      "lsof_matching_paths": [],
+      "lsof_returncode": 0,
+      "deleted": false
+    },
+    {
+      "path": "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/index",
+      "exists": true,
+      "allocated_bytes": 27099136,
+      "regular_files": 1918,
+      "symlinks": 0,
+      "lsof_matching_paths": [],
+      "lsof_returncode": 0,
+      "deleted": false
+    }
+  ],
+  "deletion_authorized": false,
+  "deleted_bytes": 0
+}

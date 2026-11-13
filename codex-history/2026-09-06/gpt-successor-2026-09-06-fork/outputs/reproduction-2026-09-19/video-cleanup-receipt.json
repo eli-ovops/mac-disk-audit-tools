@@ -1,0 +1,10 @@
+{
+  "path": "/Users/USER/Desktop/录屏2026-09-19 16.35.42.mov",
+  "bytes": 156866583,
+  "sha256": "9ecafadbe0f2b7cc387b0c09adc8da0fba38e224d77a949337104d625000a683",
+  "send_message_id": "1a0b8d8367da151f",
+  "df_before": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 200260688  12360008    95% 2006603 123600080    2%   /System/Volumes/Data\n",
+  "deleted": true,
+  "df_after": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 200096816  12523880    95% 2006602 125238800    2%   /System/Volumes/Data\n",
+  "available_delta_bytes": 167804928
+}

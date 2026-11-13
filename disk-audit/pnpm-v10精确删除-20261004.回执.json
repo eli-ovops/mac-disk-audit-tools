@@ -1,0 +1,21 @@
+{
+  "time": "2026-10-04T22:34:56.910724+08:00",
+  "target": "/Users/USER/Library/pnpm/store/v10",
+  "guards": [],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 28981660
+  },
+  "project_head_before": null,
+  "deleted": true,
+  "rmtree_avoids_symlink_attacks": true,
+  "target_absent": true,
+  "v11_preserved": true,
+  "registered_project_preserved": true,
+  "project_head_after": null,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 29953232
+  },
+  "net_available_bytes": 994889728
+}

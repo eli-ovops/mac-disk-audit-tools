@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-04T22:04:14.586288+08:00",
+  "npm_configured_cache": "/Users/USER/.npm",
+  "pnpm_current_store": "/Users/USER/Library/pnpm/store/v11",
+  "items": [
+    {
+      "path": "/Users/USER/.npm/_cacache",
+      "realpath": "/Users/USER/.npm/_cacache",
+      "allocated_bytes": 722632704,
+      "regular_files": 2406,
+      "files_with_multiple_hardlinks": 0,
+      "symlinks": 0,
+      "open_handle_count": 0,
+      "open_pids": []
+    },
+    {
+      "path": "/Users/USER/Library/pnpm/store/v10",
+      "realpath": "/Users/USER/Library/pnpm/store/v10",
+      "allocated_bytes": 954753024,
+      "regular_files": 54756,
+      "files_with_multiple_hardlinks": 0,
+      "symlinks": 61,
+      "open_handle_count": 0,
+      "open_pids": []
+    },
+    {
+      "path": "/Users/USER/Library/pnpm/store/v11",
+      "realpath": "/Users/USER/Library/pnpm/store/v11",
+      "allocated_bytes": 12288,
+      "regular_files": 1,
+      "files_with_multiple_hardlinks": 0,
+      "symlinks": 1,
+      "open_handle_count": 0,
+      "open_pids": []
+    },
+    {
+      "path": "/Users/USER/.npm/_npx",
+      "realpath": "/Users/USER/.npm/_npx",
+      "allocated_bytes": 762105856,
+      "regular_files": 36013,
+      "files_with_multiple_hardlinks": 2,
+      "symlinks": 54,
+      "open_handle_count": 0,
+      "open_pids": []
+    }
+  ],
+  "matching_process_names": [
+    "node"
+  ],
+  "lsof_returncode": 0,
+  "df": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 169761748  28342464    86% 2032058 283424640    1%   /System/Volumes/Data\n",
+  "deleted": false,
+  "notes": [
+    "npm _cacache is download cache; deleting loses offline/reuse ability; next needed packages require download, availability/time UNKNOWN",
+    "pnpm v11 is current configured store; v10 is older version but project reuse/dependency UNKNOWN; multiple hardlinks do not establish all dependents",
+    "npx unpacked tool environments may be launched by tasks; project dependency UNKNOWN",
+    "Native npm cache clean and pnpm store prune not invoked; exact coverage not verified; no native broad cleanup proposed"
+  ]
+}

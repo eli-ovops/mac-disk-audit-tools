@@ -1,0 +1,191 @@
+-- Documents immediate children --
+11497788	/Users/USER/Documents/app
+3042444	/Users/USER/Documents/Codex
+512916	/Users/USER/Documents/ChatGPT
+302476	/Users/USER/Documents/skills
+196044	/Users/USER/Documents/抖音ai
+77964	/Users/USER/Documents/Focumi-Rollback-Archives
+54696	/Users/USER/Documents/eli
+44804	/Users/USER/Documents/Codex-Dream-Skin
+12756	/Users/USER/Documents/serenity
+3260	/Users/USER/Documents/obsidian辅助记忆库
+1344	/Users/USER/Documents/SOP
+640	/Users/USER/Documents/T1--重塑工作流
+164	/Users/USER/Documents/Hermes
+88	/Users/USER/Documents/dan
+52	/Users/USER/Documents/Obsidian Vault
+0	/Users/USER/Documents/量化
+-- Downloads immediate children --
+1162356	/Users/USER/Downloads/motionsites.ai.zip
+407580	/Users/USER/Downloads/产品图片
+76436	/Users/USER/Downloads/S2025春样品照片
+9252	/Users/USER/Downloads/基金会官网照片
+7788	/Users/USER/Downloads/Elden_Ring_宣传册.pdf
+7408	/Users/USER/Downloads/onboarding-to-completion-candidate.mp4
+6084	/Users/USER/Downloads/audit-report-2025.pdf
+5716	/Users/USER/Downloads/PIC
+2444	/Users/USER/Downloads/ChatGPT Image 2026年8月13日 21_31_25.png
+2368	/Users/USER/Downloads/ScreenShot_2026-08-15_184604_996.png
+2140	/Users/USER/Downloads/IMG_2862.MP4
+2120	/Users/USER/Downloads/onboarding-to-completion-fixed-final-v4-en.mp4
+2120	/Users/USER/Downloads/onboarding-to-completion-fixed-final-v4-en (1).mp4
+1920	/Users/USER/Downloads/onboarding-to-completion-fixed-final-v4.mp4
+540	/Users/USER/Downloads/测试.pages
+524	/Users/USER/Downloads/拼豆图纸｜中国咪能飞_4_Nizi_来自小红书网页版.jpg
+504	/Users/USER/Downloads/微信图片_20260812192228_243_1067.jpg
+448	/Users/USER/Downloads/未命名.key
+356	/Users/USER/Downloads/破甲提示词整理
+352	/Users/USER/Downloads/jimeng-2026-08-02-6297-制作10秒横版16_9写实雨雾救援短片开端：一枚无标识旧金属信物引出青年在山雨中..._frames
+344	/Users/USER/Downloads/review-render.mp4
+344	/Users/USER/Downloads/review-render (1).mp4
+312	/Users/USER/Downloads/vpn
+312	/Users/USER/Downloads/index.html
+284	/Users/USER/Downloads/Milo_Return_Animatic.mp4
+284	/Users/USER/Downloads/Milo_Return_Animatic (1).mp4
+280	/Users/USER/Downloads/Milo_Return_Animatic_v2.mp4
+260	/Users/USER/Downloads/Max_Return_Animatic.mp4
+248	/Users/USER/Downloads/registered.mp4
+248	/Users/USER/Downloads/Max_Return_Animatic_v2.mp4
+240	/Users/USER/Downloads/registered (1).mp4
+236	/Users/USER/Downloads/微信图片_2026-07-25_163506_146.jpg
+224	/Users/USER/Downloads/gtc_taipei_2026_codex_inputs_ready
+224	/Users/USER/Downloads/Codex 图像 2026年8月15日 18_56_43.jpg
+220	/Users/USER/Downloads/Codex 图像 2026年8月15日 18_56_50.jpg
+100	/Users/USER/Downloads/卓建官网开发方法论最终版_20260719.zip
+88	/Users/USER/Downloads/未命名.pages
+64	/Users/USER/Downloads/gtc_taipei_2026_codex_inputs_ready.zip
+32	/Users/USER/Downloads/space_first_patch 3
+32	/Users/USER/Downloads/space_first_patch 2
+32	/Users/USER/Downloads/space_first_patch
+28	/Users/USER/Downloads/docs-04_AI.md
+28	/Users/USER/Downloads/Jotform instructions.docx
+24	/Users/USER/Downloads/Referral_Tracker jot form.xlsx
+24	/Users/USER/Downloads/P0-02_PRODUCT_IA.md
+12	/Users/USER/Downloads/OVOPS_PHASE6_1_CONVERSION_MAP.md
+8	/Users/USER/Downloads/gpt下载
+4	/Users/USER/Downloads/note-a14f69a2-d77f-4f90-bfd4-607373c77945.json
+4	/Users/USER/Downloads/TASK_CONTEXT.md
+4	/Users/USER/Downloads/PROJECT_STATE.md
+4	/Users/USER/Downloads/CLAUDE.md
+4	/Users/USER/Downloads/AGENTS.md
+-- Pictures immediate children --
+400	/Users/USER/Pictures/微信图片_2026-06-13_193651_770.jpg
+336	/Users/USER/Pictures/微信图片_2026-06-13_193644_727.jpg
+236	/Users/USER/Pictures/微信图片_2026-06-17_230859_432.jpg
+-- Movies immediate children --
+188	/Users/USER/Movies/Videos
+-- Library/Caches immediate children --
+1303984	/Users/USER/Library/Caches/Codex
+1034704	/Users/USER/Library/Caches/Google
+370444	/Users/USER/Library/Caches/com.openai.atlas
+368728	/Users/USER/Library/Caches/pnpm
+295624	/Users/USER/Library/Caches/com.clashfx.app.sparkle
+213572	/Users/USER/Library/Caches/LarkShell
+172792	/Users/USER/Library/Caches/com.apple.python
+119260	/Users/USER/Library/Caches/electron
+103848	/Users/USER/Library/Caches/GeoServices
+65668	/Users/USER/Library/Caches/reasonix
+55956	/Users/USER/Library/Caches/org.swift.swiftpm
+54416	/Users/USER/Library/Caches/node-gyp
+25224	/Users/USER/Library/Caches/com.apple.helpd
+14284	/Users/USER/Library/Caches/pip
+10520	/Users/USER/Library/Caches/statsig-cache
+8828	/Users/USER/Library/Caches/com.openai.sky.CUAService
+8232	/Users/USER/Library/Caches/com.apple.ctcategories.service
+7840	/Users/USER/Library/Caches/com.apple.AppleMediaServices
+7724	/Users/USER/Library/Caches/com.apple.CloudTelemetry
+7680	/Users/USER/Library/Caches/com.clashfx.app
+7344	/Users/USER/Library/Caches/typescript
+6832	/Users/USER/Library/Caches/com.apple.AMPDevicesAgent
+6576	/Users/USER/Library/Caches/com.openai.chat
+6460	/Users/USER/Library/Caches/com.apple.appstoreagent
+5272	/Users/USER/Library/Caches/com.openai.codex
+4284	/Users/USER/Library/Caches/com.apple.amsengagementd
+4280	/Users/USER/Library/Caches/com.apple.amsaccountsd
+4032	/Users/USER/Library/Caches/com.apple.AMPLibraryAgent
+3724	/Users/USER/Library/Caches/com.apple.tipsd
+3284	/Users/USER/Library/Caches/com.electron.lark.helper
+3196	/Users/USER/Library/Caches/com.apple.akd
+3160	/Users/USER/Library/Caches/com.apple.dt.Xcode
+3156	/Users/USER/Library/Caches/com.apple.managedappdistributionagent
+3156	/Users/USER/Library/Caches/com.apple.iCloudNotificationAgent
+3112	/Users/USER/Library/Caches/com.apple.geoanalyticsd
+2832	/Users/USER/Library/Caches/com.apple.itunescloudd
+2528	/Users/USER/Library/Caches/com.apple.appstorecomponentsd
+2360	/Users/USER/Library/Caches/com.apple.accountsd
+2348	/Users/USER/Library/Caches/PassKit
+2204	/Users/USER/Library/Caches/com.apple.appleaccountd
+2136	/Users/USER/Library/Caches/com.apple.iTunes
+1780	/Users/USER/Library/Caches/com.apple.SetupAssistant
+1508	/Users/USER/Library/Caches/com.apple.storekitagent
+1396	/Users/USER/Library/Caches/com.apple.Music
+1272	/Users/USER/Library/Caches/com.apple.Spotlight
+1180	/Users/USER/Library/Caches/com.apple.FeatureAccessAgent
+1148	/Users/USER/Library/Caches/com.apple.sirittsd
+1112	/Users/USER/Library/Caches/com.google.GoogleUpdater
+708	/Users/USER/Library/Caches/com.apple.TV
+700	/Users/USER/Library/Caches/com.apple.shazamd
+596	/Users/USER/Library/Caches/com.microsoft.VSCode
+596	/Users/USER/Library/Caches/com.apple.betaenrollmentagent
+584	/Users/USER/Library/Caches/com.apple.dt.xcodebuild
+484	/Users/USER/Library/Caches/com.west2online.ClashX
+484	/Users/USER/Library/Caches/askpermissiond
+436	/Users/USER/Library/Caches/Animoji
+424	/Users/USER/Library/Caches/com.apple.passd
+420	/Users/USER/Library/Caches/com.apple.nbagent
+392	/Users/USER/Library/Caches/com.apple.appstore
+392	/Users/USER/Library/Caches/AAProfilePicture_FAD92167-9CCA-48F7-8EBD-EFA723A43FF5.png
+392	/Users/USER/Library/Caches/AAProfilePicture_F22F069A-015B-4392-A710-0F6695B56D34.png
+364	/Users/USER/Library/Caches/com.apple.ap.PromotedContentJetService
+276	/Users/USER/Library/Caches/com.apple.dt.Xcode.ITunesSoftwareService
+276	/Users/USER/Library/Caches/com.apple.askpermissiond
+276	/Users/USER/Library/Caches/com.anthropic.claudefordesktop
+252	/Users/USER/Library/Caches/com.apple.parsecd
+248	/Users/USER/Library/Caches/com.apple.feedbacklogger
+236	/Users/USER/Library/Caches/com.apple.proactive.eventtracker
+236	/Users/USER/Library/Caches/com.apple.cache_delete
+228	/Users/USER/Library/Caches/mbuseragent
+212	/Users/USER/Library/Caches/com.apple.itunes.swinfo
+212	/Users/USER/Library/Caches/com.apple.icloudwebd
+212	/Users/USER/Library/Caches/com.apple.accounts.dom
+212	/Users/USER/Library/Caches/com.apple.SoftwareUpdateNotificationManager
+192	/Users/USER/Library/Caches/com.apple.duetexpertd
+192	/Users/USER/Library/Caches/JetPackCache
+188	/Users/USER/Library/Caches/com.apple.watchlistd
+188	/Users/USER/Library/Caches/com.apple.coreservices.uiagent
+168	/Users/USER/Library/Caches/com.datadoghq
+168	/Users/USER/Library/Caches/com.apple.iBooksX
+156	/Users/USER/Library/Caches/com.apple.bird
+148	/Users/USER/Library/Caches/com.apple.remindd
+144	/Users/USER/Library/Caches/com.apple.translationd
+144	/Users/USER/Library/Caches/com.apple.dataaccess.dataaccessd
+140	/Users/USER/Library/Caches/com.apple.assistant_service
+136	/Users/USER/Library/Caches/com.apple.donotdisturbd
+132	/Users/USER/Library/Caches/com.apple.AuthenticationServicesCore.AuthenticationServicesAgent
+80	/Users/USER/Library/Caches/com.openai.sky.CUAService.cli
+80	/Users/USER/Library/Caches/com.github.GitHubClient
+80	/Users/USER/Library/Caches/com.apple.itunes.altoolShim
+80	/Users/USER/Library/Caches/chrome_crashpad_handler
+64	/Users/USER/Library/Caches/checkpoint-nodejs
+48	/Users/USER/Library/Caches/GameKit
+44	/Users/USER/Library/Caches/com.apple.siri.conversationhandlercache.plist
+32	/Users/USER/Library/Caches/com.microsoft.VSCode.ShipIt
+24	/Users/USER/Library/Caches/com.apple.nsservicescache.plist
+24	/Users/USER/Library/Caches/com.apple.chrono
+12	/Users/USER/Library/Caches/io.github.clash-verge-rev.clash-verge-rev
+12	/Users/USER/Library/Caches/com.apple.siri.bundleservicecache.plist
+8	/Users/USER/Library/Caches/ms-playwright
+-- lexar selected immediate children --
+1919276	/Volumes/EXTERNAL/deepseek-harness
+1919276	/Volumes/EXTERNAL/deepseek-harness
+1633712	/Volumes/EXTERNAL/wl
+652104	/Volumes/EXTERNAL/DSH Desktop Installer
+549164	/Volumes/EXTERNAL/小红书
+336156	/Volumes/EXTERNAL/咸鱼
+134144	/Volumes/EXTERNAL/Downloads
+95068	/Volumes/EXTERNAL/海外落地页
+40984	/Volumes/EXTERNAL/Eli归档
+38076	/Volumes/EXTERNAL/ai音乐
+7380	/Volumes/EXTERNAL/xhs-local-studio-source-20260813.zip
+292	/Volumes/EXTERNAL/uumit
+0	/Volumes/EXTERNAL/deepseek

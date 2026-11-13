@@ -1,0 +1,357 @@
+{
+  "routing_version": "ROUTING-2026-09-30-v3",
+  "actual_model_effort": "UNKNOWN",
+  "worktree_git_roots": 26,
+  "all_status_read_success": true,
+  "all_heads_match": true,
+  "same_status_count": 25,
+  "status_exception": {
+    "repository": "自律宠物-iOS",
+    "source_only": [
+      "?? .asc/"
+    ],
+    "copy_only": []
+  },
+  "bare_SPM_repository_metadata": [
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/ArtifactBundleGen-eef5b5ca",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "33f4a65acb296dcde04aeb828b6850fcf9dceb6c",
+        "refs_exit": 0,
+        "ref_count": 19,
+        "refs_metadata_sha256": "ba332fd2f9b2a72e2bf17fcfb3d74535030e8e5255a742993b844cedc24276c6"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "33f4a65acb296dcde04aeb828b6850fcf9dceb6c",
+        "refs_exit": 0,
+        "ref_count": 19,
+        "refs_metadata_sha256": "ba332fd2f9b2a72e2bf17fcfb3d74535030e8e5255a742993b844cedc24276c6"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/Rainbow-64aa5363",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "51ffe95d413aad0a7104aaf72d1d1f17c26ce545",
+        "refs_exit": 0,
+        "ref_count": 111,
+        "refs_metadata_sha256": "05c087528a47a42ef100b164254b170069b544bb5d5ee31bf8baaaddeca2fa8a"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "51ffe95d413aad0a7104aaf72d1d1f17c26ce545",
+        "refs_exit": 0,
+        "ref_count": 111,
+        "refs_metadata_sha256": "05c087528a47a42ef100b164254b170069b544bb5d5ee31bf8baaaddeca2fa8a"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/Version-3b0a4033",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "3043fcd2a50375db76d89ff206a612471833d1c2",
+        "refs_exit": 0,
+        "ref_count": 38,
+        "refs_metadata_sha256": "90260f62eed815f787bc1127ca4cedb80503ec1a79dcfd7f569ce34f2419b12b"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "3043fcd2a50375db76d89ff206a612471833d1c2",
+        "refs_exit": 0,
+        "ref_count": 38,
+        "refs_metadata_sha256": "90260f62eed815f787bc1127ca4cedb80503ec1a79dcfd7f569ce34f2419b12b"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/Yams-fd9f2519",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "df801bc4f158f107035d2e14f6d0d8d31eb31ddb",
+        "refs_exit": 0,
+        "ref_count": 457,
+        "refs_metadata_sha256": "03c251e42b89178ae1af177dbef46bb84babbafa1f5e9ddc70eb67d5a6c6a0dc"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "df801bc4f158f107035d2e14f6d0d8d31eb31ddb",
+        "refs_exit": 0,
+        "ref_count": 457,
+        "refs_metadata_sha256": "03c251e42b89178ae1af177dbef46bb84babbafa1f5e9ddc70eb67d5a6c6a0dc"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/Spectre-3d66c3b3",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "26cc5e9ae0947092c7139ef7ba612e34646086c7",
+        "refs_exit": 0,
+        "ref_count": 66,
+        "refs_metadata_sha256": "be01ba0dbb8b0f8f6d52f71e4c174e1d5098b8b0f20081baca38bf64bd10f443"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "26cc5e9ae0947092c7139ef7ba612e34646086c7",
+        "refs_exit": 0,
+        "ref_count": 66,
+        "refs_metadata_sha256": "be01ba0dbb8b0f8f6d52f71e4c174e1d5098b8b0f20081baca38bf64bd10f443"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/XcodeProj-e9e1cd08",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "ead71ff9be24350027a8bc26b68ee9f544c9853d",
+        "refs_exit": 0,
+        "ref_count": 1232,
+        "refs_metadata_sha256": "4b1f47a208753b237852b132fe8cc15cda31c4dfffeabbc692793188285dd68e"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "ead71ff9be24350027a8bc26b68ee9f544c9853d",
+        "refs_exit": 0,
+        "ref_count": 1232,
+        "refs_metadata_sha256": "4b1f47a208753b237852b132fe8cc15cda31c4dfffeabbc692793188285dd68e"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/AEXML-61553ab1",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "bcdfd485a41a0bba5cfc61e3dc5204308728b7d0",
+        "refs_exit": 0,
+        "ref_count": 121,
+        "refs_metadata_sha256": "45597e9b8c6a01b1c11838018fedb86ce225f7514862d30f50e37316e28ead2e"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "bcdfd485a41a0bba5cfc61e3dc5204308728b7d0",
+        "refs_exit": 0,
+        "ref_count": 121,
+        "refs_metadata_sha256": "45597e9b8c6a01b1c11838018fedb86ce225f7514862d30f50e37316e28ead2e"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/SwiftCLI-83761b15",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "2e949055d9797c1a6bddcda0e58dada16cc8e970",
+        "refs_exit": 0,
+        "ref_count": 122,
+        "refs_metadata_sha256": "ad6f79e6fd927ef0f0970d16f67d13edd808b5ca3016c120ca45cdbce2023584"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "2e949055d9797c1a6bddcda0e58dada16cc8e970",
+        "refs_exit": 0,
+        "ref_count": 122,
+        "refs_metadata_sha256": "ad6f79e6fd927ef0f0970d16f67d13edd808b5ca3016c120ca45cdbce2023584"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/JSONUtilities-1696c737",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "128d2ffc22467f69569ef8ff971683e2393191a0",
+        "refs_exit": 0,
+        "ref_count": 25,
+        "refs_metadata_sha256": "c364f01d896aed2938cc1c30963e356c03576ce1506ecb398d985362696b0979"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "128d2ffc22467f69569ef8ff971683e2393191a0",
+        "refs_exit": 0,
+        "ref_count": 25,
+        "refs_metadata_sha256": "c364f01d896aed2938cc1c30963e356c03576ce1506ecb398d985362696b0979"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    },
+    {
+      "relative": ".agents/tools/XcodeGen/.build/repositories/PathKit-61dbf7cf",
+      "source": {
+        "head_exit": 0,
+        "HEAD": "2fcd4618d52869b342e208324d455131a48f9e9b",
+        "refs_exit": 0,
+        "ref_count": 112,
+        "refs_metadata_sha256": "40c4eeeabddd99d24e4019ede982c44361b7ad042f042a6eefb69f402cea6a22"
+      },
+      "copy": {
+        "head_exit": 0,
+        "HEAD": "2fcd4618d52869b342e208324d455131a48f9e9b",
+        "refs_exit": 0,
+        "ref_count": 112,
+        "refs_metadata_sha256": "40c4eeeabddd99d24e4019ede982c44361b7ad042f042a6eefb69f402cea6a22"
+      },
+      "head_and_refs_match": true,
+      "status": "not applicable to bare repository"
+    }
+  ],
+  "old_App_or_copy_open_handles_at_observation": [],
+  "known_PATH_tools": [
+    "tuist",
+    "xcodegen",
+    "swiftlint",
+    "swiftformat",
+    "periphery",
+    "maestro",
+    "idb"
+  ],
+  "known_PATH_tools_found": [],
+  "source_symlinks": {
+    "relative_inside_source": 64,
+    "absolute_old_root": 0,
+    "external_shared": 1,
+    "external_shared_path": ".agents/tools/XcodeGen/.build/checkouts/PathKit/Tests/PathKitTests/Fixtures/symlinks/swift",
+    "external_shared_target": "/usr/bin/swift"
+  },
+  "copied_relative_symlinks_resolve_inside_copy": 64,
+  "external_worktree_paths": [
+    "/private/tmp/focumi-3bd375c",
+    "/private/tmp/focumi-baseline-6c84950615a0132878e38772007d288ccc381967"
+  ],
+  "old_uv_handle_pid_count": 8,
+  "observed_uv_launch_parent_pid": 2010,
+  "observed_uv_launch_PIDs": [
+    2230,
+    4409,
+    4489,
+    4879
+  ],
+  "current_uv_distribution": {
+    "name": "mcp-server-linkedin",
+    "version": "4.26.2",
+    "archive_root": "/Users/USER/.cache/uv/archive-v0/Gq4vWuQZ53B6Zbb0"
+  },
+  "runtime_acceptance": "NOT_TESTED",
+  "source_delete_operations": 0,
+  "source_release_bytes": 0,
+  "config_mutations": 0,
+  "full_hash_repeated": false,
+  "uv_test_repeated": false,
+  "candidate_csv": "/Users/USER/Documents/磁盘清理审计/App精确释放候选-20261004.csv",
+  "first_candidate_allocated_bytes": 185245696,
+  "metadata_difference_assessment": {
+    "provenance_difference_count": 138,
+    "observed_readonly_Git_impact": "none",
+    "file_read_content_integrity": "previous complete SHA256 PASS reused",
+    "Gatekeeper_or_application_startup_effect": "UNKNOWN; not executed",
+    "zero_difference_required_for_content_backup": false,
+    "security_attributes_removed": false
+  },
+  "old_root_reference_assessment": {
+    "project_config": {
+      "location": "自律宠物-iOS/reasonix.toml:2",
+      "old_root_structural_locations": [
+        {
+          "location": "permissions.allow[1]",
+          "kind": "value"
+        },
+        {
+          "location": "permissions.allow[2]",
+          "kind": "value"
+        },
+        {
+          "location": "permissions.allow[4]",
+          "kind": "value"
+        }
+      ],
+      "currently_used": "not established; Reasonix retired by global rule"
+    },
+    "reasonix_role": "retired under current global rule; not executed",
+    "generated_build_configs": [
+      ".agents/tools/XcodeGen/.build/debug.yaml",
+      ".agents/tools/XcodeGen/.build/plugin-tools.yaml"
+    ],
+    "historical_document_samples": [
+      "AGENTS.md:120",
+      "AGENTS.md:123",
+      "Focumi开发完整复盘_问题根因与改进SOP_2026-08-14.md:6",
+      "EarthOnlineGuide/Planning/Backups/v2-20260825-dynamic-type-closeout-165529/SOURCE_MANIFEST.md:7"
+    ],
+    "scan_scope": "source/copy configuration/docs/scripts <=512KiB; secret names, node_modules, .git, .asc, .reasonix, build outputs excluded from generic text scan; known generated build configs inspected separately",
+    "whole_home_scan": false,
+    "generated_build_old_root_reference_lines": 250
+  },
+  "uv_next_plan": {
+    "current_entry_file": "/Users/USER/.codex/config.toml",
+    "entry": "mcp_servers.linkedin-social",
+    "current_command": "uvx",
+    "current_args_public": [
+      "mcp-server-linkedin@latest"
+    ],
+    "observed_distribution_version": "4.26.2",
+    "next_readonly_launch": "mcp-server-linkedin@4.26.2 --help only; no MCP or account tool call",
+    "future_key": "mcp_servers.linkedin-social.env.UV_CACHE_DIR",
+    "future_value": "/Volumes/EXTERNAL/开发工具数据/uv-cache/linkedin-4.26.2",
+    "persistent_edit_authorized_this_round": false,
+    "old_cache_deletion_authorized": false,
+    "existing_constraint_distribution_count": 78,
+    "proposed_argv": [
+      "/Users/USER/.local/bin/uvx",
+      "--no-config",
+      "--no-env-file",
+      "--isolated",
+      "--no-build",
+      "--no-python-downloads",
+      "--keyring-provider",
+      "disabled",
+      "--cache-dir",
+      "/Volumes/EXTERNAL/开发工具数据/uv-cache/linkedin-4.26.2",
+      "--python",
+      "/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "--constraints",
+      "/Volumes/EXTERNAL/开发工具数据/uv真实入口试点-20261004/constraints-4.26.2.txt",
+      "mcp-server-linkedin@4.26.2",
+      "--help"
+    ],
+    "new_cache": "/Volumes/EXTERNAL/开发工具数据/uv-cache/linkedin-4.26.2",
+    "trial_root": "/Volumes/EXTERNAL/开发工具数据/uv真实入口试点-20261004",
+    "new_roots_currently_absent": true,
+    "download_budget_bytes": 134217728,
+    "allocation_budget_bytes": 536870912,
+    "time_budget_seconds": 300,
+    "uvx_runs": 1,
+    "account_calls": 0,
+    "mcp_calls": 0,
+    "public_sources": [
+      "https://pypi.org/project/mcp-server-linkedin/4.26.2/",
+      "https://docs.astral.sh/uv/concepts/cache/"
+    ]
+  },
+  "next_approval_action": {
+    "type": "precise source compiler cache deletion only",
+    "paths": [
+      "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/index"
+    ],
+    "allocated_bytes": 185245696,
+    "delete_authorized_this_round": false,
+    "expected_tradeoff": "future compiler may rebuild module cache and index",
+    "preserve": [
+      "source executable",
+      "source/Git",
+      "other .build files",
+      "external verified copy",
+      "old uv environment"
+    ],
+    "verification": "same Data volume df before/after; recheck exact paths/mount/no new writer"
+  }
+}

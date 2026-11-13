@@ -1,0 +1,38 @@
+-- selected candidate metadata --
+128\t1786675748\t2026-08-14 10:49:08 +0800\t/Users/USER/Library/Caches/Codex
+du_kb=1300884
+128\t1786871310\t2026-08-16 17:08:30 +0800\t/Users/USER/Library/Caches/Google
+du_kb=1034608
+224\t1786697140\t2026-08-14 16:45:40 +0800\t/Users/USER/Library/Caches/pnpm
+du_kb=368728
+192\t1785984092\t2026-08-06 10:41:32 +0800\t/Users/USER/Library/Caches/reasonix
+du_kb=65668
+3968\t1786951156\t2026-08-17 15:19:16 +0800\t/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04
+du_kb=2858748
+256\t1786861101\t2026-08-16 14:18:21 +0800\t/Users/USER/Documents/app/自律宠物-iOS/build
+du_kb=58368
+128\t1785393097\t2026-07-30 14:31:37 +0800\t/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs
+du_kb=1179424
+1190252072\t1786604044\t2026-08-13 14:54:04 +0800\t/Users/USER/Downloads/motionsites.ai.zip
+du_kb=1162356
+384\t1786688747\t2026-08-14 14:25:47 +0800\t/Volumes/EXTERNAL/wl/output
+du_kb=642000
+512\t1786617102\t2026-08-13 18:31:42 +0800\t/Volumes/EXTERNAL/wl/tmp
+du_kb=363016
+333873316\t1786880595\t2026-08-16 19:43:15 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.complete.dmg
+du_kb=326052
+333873316\t1786880588\t2026-08-16 19:43:08 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.dmg
+du_kb=326052
+-- active process risk (selected dirs, lsof only) --
+[/Users/USER/Library/Caches/Codex]
+COMMAND     PID  USER   FD   TYPE DEVICE SIZE/OFF     NODE NAME
+Codex\x20 49890 cczij   29w   REG   1,13        4 59115993 /Users/USER/Library/Caches/Codex/codex-browser-app/Cache/No_Vary_Search/journal.baj
+Codex\x20 49890 cczij   30w   REG   1,13        4 59115994 /Users/USER/Library/Caches/Codex/Default/Cache/No_Vary_Search/journal.baj
+Codex\x20 49890 cczij   40w   REG   1,13    28460 59116060 /Users/USER/Library/Caches/Codex/Default/Partitions/codex-browser-app/Cache/No_Vary_Search/journal.baj
+[/Users/USER/Library/Caches/Google]
+[/Users/USER/Library/Caches/pnpm]
+[/Users/USER/Library/Caches/reasonix]
+[/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04]
+[/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs]
+[/Volumes/EXTERNAL/wl/output]
+[/Volumes/EXTERNAL/wl/tmp]

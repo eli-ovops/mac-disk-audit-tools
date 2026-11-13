@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-10-04T21:32:27.439517+08:00",
+  "candidates": [
+    {
+      "id": "DISK-034",
+      "path": "/Users/USER/Library/Caches/Codex/Default/Partitions/codex-browser-app/Cache",
+      "exists": true,
+      "realpath": "/Users/USER/Library/Caches/Codex/Default/Partitions/codex-browser-app/Cache",
+      "symlink": false,
+      "allocated_bytes": 806789120,
+      "open_handle_count": 1,
+      "open_pids": [
+        "1971"
+      ],
+      "use": "Codex浏览器分区HTTP缓存",
+      "impact": "失去缓存与离线副本，首次访问下载/编译；不动登录/历史/配置",
+      "recovery": "由原程序重新获取/编译，下载量、原网页仍否存在及耗时UNKNOWN；不保证原缓存字节",
+      "native_cleanup": "UNKNOWN; precise native coverage not verified",
+      "decision": "Defer while application active; precise approval and idle/exit prerequisite",
+      "deleted": false
+    },
+    {
+      "id": "DISK-038",
+      "path": "/Users/USER/Library/Caches/Google/Chrome/Default/Cache",
+      "exists": true,
+      "realpath": "/Users/USER/Library/Caches/Google/Chrome/Default/Cache",
+      "symlink": false,
+      "allocated_bytes": 831397888,
+      "open_handle_count": 1,
+      "open_pids": [
+        "11335"
+      ],
+      "use": "Chrome HTTP页面缓存",
+      "impact": "失去缓存与离线副本，首次访问下载/编译；不动登录/历史/配置",
+      "recovery": "由原程序重新获取/编译，下载量、原网页仍否存在及耗时UNKNOWN；不保证原缓存字节",
+      "native_cleanup": "UNKNOWN; precise native coverage not verified",
+      "decision": "Defer while application active; precise approval and idle/exit prerequisite",
+      "deleted": false
+    },
+    {
+      "id": "DISK-050",
+      "path": "/Users/USER/Library/Application Support/LarkShell/update/update_downloading/e3d6fa27cc994d00d69c480d17f1d870-0f304556f956a315e4db56a1c3e12cbf-1th.zip",
+      "exists": true,
+      "realpath": "/Users/USER/Library/Application Support/LarkShell/update/update_downloading/e3d6fa27cc994d00d69c480d17f1d870-0f304556f956a315e4db56a1c3e12cbf-1th.zip",
+      "symlink": false,
+      "allocated_bytes": 569950208,
+      "open_handle_count": 0,
+      "open_pids": [],
+      "use": "飞书更新下载ZIP",
+      "impact": "放弃下载和离线包，不动sdk_storage聊天数据及旁边App",
+      "recovery": "官方重新下载约544MiB以上，同版可取性与耗时UNKNOWN",
+      "native_cleanup": "UNKNOWN; precise native coverage not verified",
+      "decision": "Pending precise approval; updater waiting state UNKNOWN",
+      "deleted": false
+    }
+  ],
+  "matching_process_names": [
+    "ChatGPT for Chrome",
+    "Codex (Renderer)",
+    "Codex (Service)",
+    "Google Chrome",
+    "Google Chrome Helper",
+    "Google Chrome Helper (Renderer)",
+    "SkyComputerUseClient",
+    "SkyComputerUseService",
+    "browser_crashpad_handler",
+    "chrome_crashpad_handler",
+    "codex",
+    "codex-code-mode-host"
+  ],
+  "lsof_returncode": 0,
+  "df": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 173384396  24719816    88% 2043204 247198160    1%   /System/Volumes/Data\n",
+  "read_only": true
+}

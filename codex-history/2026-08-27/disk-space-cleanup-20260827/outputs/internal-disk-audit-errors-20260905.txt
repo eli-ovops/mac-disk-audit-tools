@@ -1,0 +1,35 @@
+内置盘只读审计错误摘要 2026-09-05
+du_errors=372
+find_errors=438
+
+代表性原错（未绕过）：
+du: /System/Volumes/Data/.Spotlight-V100: Operation not permitted
+du: /System/Volumes/Data/Library/Application Support/Apple/ParentalControls/Users: Permission denied
+du: /System/Volumes/Data/Library/Application Support/Apple/AssetCache/Data: Permission denied
+du: /System/Volumes/Data/Library/Application Support/com.apple.TCC: Operation not permitted
+du: /System/Volumes/Data/Library/Trial: Operation not permitted
+du: /System/Volumes/Data/Library/Bluetooth: Operation not permitted
+du: /System/Volumes/Data/Library/Caches/com.apple.amsengagementd.classicdatavault: Operation not permitted
+du: /System/Volumes/Data/Library/Caches/com.apple.aneuserd: Operation not permitted
+du: /System/Volumes/Data/Library/Caches/com.apple.iconservices.store: Permission denied
+du: /System/Volumes/Data/Library/Caches/com.apple.aned: Operation not permitted
+du: /System/Volumes/Data/System/Library/AssetsV2/com_apple_MobileAsset_UAF_IF_Planner: Operation not permitted
+du: /System/Volumes/Data/System/Library/AssetsV2/com_apple_MobileAsset_UAF_FM_Overrides: Operation not permitted
+du: /System/Volumes/Data/System/Library/Caches/com.apple.coresymbolicationd: Permission denied
+du: /System/Volumes/Data/.fseventsd: Permission denied
+du: /System/Volumes/Data/private/etc/cups/certs: Permission denied
+du: /System/Volumes/Data/private/var/networkd/Library: Permission denied
+du: /System/Volumes/Data/private/var/networkd/db: Operation not permitted
+du: /System/Volumes/Data/private/var/install: Permission denied
+du: /System/Volumes/Data/private/var/ma: Permission denied
+du: /System/Volumes/Data/private/var/spool/mqueue: Permission denied
+du: /System/Volumes/Data/private/var/spool/postfix/saved: Permission denied
+du: /System/Volumes/Data/private/var/spool/postfix/trace: Permission denied
+du: /System/Volumes/Data/private/var/spool/postfix/defer: Permission denied
+du: /System/Volumes/Data/private/var/spool/postfix/flush: Permission denied
+du: /System/Volumes/Data/private/var/spool/postfix/deferred: Permission denied
+
+simctl: CoreSimulatorService connection became invalid; Error opening log file: Operation not permitted
+diskutil: Unable to run because unable to use the DiskManagement framework.
+
+完整错误原文位于 work/du-data-depth3.errors.txt 与 work/large-files.errors.txt。

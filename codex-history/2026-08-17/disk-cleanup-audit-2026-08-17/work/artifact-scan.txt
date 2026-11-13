@@ -1,0 +1,459 @@
+-- artifact-like directories: Documents bounded --
+1179424	/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs
+816872	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/ModuleCache.noindex
+719964	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/Build
+316844	/Users/USER/Documents/app/.agents/tools/XcodeGen/.build
+194372	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/release
+155996	/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/tmp
+147512	/Users/USER/Documents/app/自律宠物-iOS/Evidence
+140880	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa-vintage
+114944	/Users/USER/Documents/app/自律宠物-iOS/Design/ImplementationEvidence
+82032	/Users/USER/Documents/app/真实发型试戴MVP/evidence
+77964	/Users/USER/Documents/Focumi-Rollback-Archives
+72924	/Users/USER/Documents/Codex/2026-06-21/new-chat-3/outputs
+62328	/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/output
+58368	/Users/USER/Documents/app/自律宠物-iOS/build
+54612	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/focumi-v06-build9-coretests-final.xcresult
+49984	/Users/USER/Documents/Codex/2026-06-21/new-chat-3/work/qcc_template_rebuild
+42196	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa-cinematic-2026-08-12
+34012	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa-global-delight-2026-08-12
+33352	/Users/USER/Documents/Codex/2026-08-09/bang-w/outputs
+27464	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/device-qa-2026-08-12
+23520	/Users/USER/Documents/Codex/2026-08-13/codex-10mb/outputs
+20860	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa-v06-existing-pets-checkpoint-a
+19704	/Users/USER/Documents/app/.agents/tools/XcodeBuildMCP
+17292	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/device-qa-2026-08-13
+14736	/Users/USER/Documents/app/周易留白阅读原型/docs/qa-2026-08-07-charging-foundation
+14624	/Users/USER/Documents/app/LocalStampMVP/research-evidence
+13776	/Users/USER/Documents/Codex/2026-07-31/bang/outputs
+13512	/Users/USER/Documents/Codex/2026-07-12/sites-plugin-sites-openai-bundled-2/outputs
+11528	/Users/USER/Documents/Codex/2026-06-21/new-chat-3/work/qcc_2026_generated
+11396	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa-v06-checkpoint-a
+10324	/Users/USER/Documents/app/真实发型试戴MVP/evidence/throwaway-hair-only-mask-spike-2026-08-07/controlled-output
+10008	/Users/USER/Documents/app/周易留白阅读原型/docs/qa-2026-08-09-navigation-reading
+6388	/Users/USER/Documents/app/自律宠物-iOS/.build
+5236	/Users/USER/Documents/app/自律宠物-iOS/build/DisciplinedPet.build
+5232	/Users/USER/Documents/app/真实发型试戴MVP/evidence/throwaway-realness-bob-2026-08-07/output
+4332	/Users/USER/Documents/app/真实发型试戴MVP/设计方案/设计预览-A+C/output
+4024	/Users/USER/Documents/serenity/research_reports/serenity_x_full_archive_20260609
+3624	/Users/USER/Documents/app/自律宠物-iOS/build/XCBuildData
+3208	/Users/USER/Documents/Codex/2026-07-12/sites-plugin-sites-openai-bundled-2/output
+3104	/Users/USER/Documents/Codex/2026-08-14/sh/outputs
+3044	/Users/USER/Documents/Codex/2026-07-17/files-mentioned-by-the-user-build
+3016	/Users/USER/Documents/Codex/2026-07-17/files-mentioned-by-the-user-build/outputs
+2972	/Users/USER/Documents/ChatGPT/淼瀚洁具 库存管理系统/tmp/pdfs/LS2026081701-final-qa
+2964	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/SDKStatCaches.noindex
+2928	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/qa
+2788	/Users/USER/Documents/app/自律宠物-iOS/Design/CharacterAssets/SourceArchive
+2660	/Users/USER/Documents/app/自律宠物-iOS/build/XCBuildData/c8751fd5d66879e35d01af70dd412a69.xcbuilddata
+2628	/Users/USER/Documents/Codex/2026-08-07/upwork-english-portfolio/outputs
+2532	/Users/USER/Documents/skills/deepseek-harness/.agents/notes/archived
+2492	/Users/USER/Documents/app/真实发型试戴MVP/evidence/throwaway-hair-only-mask-spike-2026-08-07/output
+2048	/Users/USER/Documents/Codex/2026-07-31/tech-stack-vite-react-typescript-tailwind/outputs
+1864	/Users/USER/Documents/Codex/2026-07-31/design-prompt-targo-hero-section-brand-2/dist
+1732	/Users/USER/Documents/Codex/2026-08-02/bang-w/outputs
+1492	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/device-qa-2026-08-14-music-build9
+1348	/Users/USER/Documents/app/自律宠物-iOS/Design/CharacterConcepts/ArchivedAppIcons
+1348	/Users/USER/Documents/app/真实发型试戴MVP/设计方案/设计预览/output
+1332	/Users/USER/Documents/app/.agents/tools/tuist/cache
+1064	/Users/USER/Documents/Codex/2026-06-21/new-chat-3/outputs/qcc_2026_generated
+1056	/Users/USER/Documents/Codex/2026-08-01/txt-zip-chinese-classics-txt-zip/outputs
+1040	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/focumi-v06-build9-coretests.xcresult
+956	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/device-qa-2026-08-14-music-build8
+920	/Users/USER/Documents/skills/deepseek-harness/packages/client/runtime
+864	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/Logs
+792	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/integrated-experience-candidate/device-qa-2026-08-14
+760	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/focumi-v06-build8-coretests.xcresult
+728	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/v06-flow-evidence-coretests.xcresult
+708	/Users/USER/Documents/Codex/2026-07-31/bang/work/browser-evidence
+520	/Users/USER/Documents/Codex/2026-08-09/global-governance-repair-20260809/outputs
+464	/Users/USER/Documents/Codex/2026-08-09/global-governance-audit-20260809/outputs
+352	/Users/USER/Documents/app/LocalStampMVP/web-prototype/output
+288	/Users/USER/Documents/skills/deepseek-harness/packages/code-runtime
+276	/Users/USER/Documents/app/周易留白阅读原型/docs/qa-2026-08-01
+228	/Users/USER/Documents/Codex/2026-06-14/bit-bitlanglang-ai-ai-bit-bitlanglang/outputs
+220	/Users/USER/Documents/skills/deepseek-harness/packages/code-runtime/code-runtime-worker-thread
+184	/Users/USER/Documents/Codex/2026-06-21/new-chat-4/outputs
+172	/Users/USER/Documents/Codex/2026-07-31/tech-stack-vite-react-typescript-tailwind/dist
+152	/Users/USER/Documents/skills/deepseek-harness/packages/test-support/client-runtime
+128	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/Logs/Build
+116	/Users/USER/Documents/Codex/2026-06-29/new-chat-2/outputs
+80	/Users/USER/Documents/Codex/2026-08-10/zhe/outputs
+72	/Users/USER/Documents/skills/deepseek-harness/scripts/release
+72	/Users/USER/Documents/skills/deepseek-harness/packages/util/output-retention
+72	/Users/USER/Documents/skills/deepseek-harness/packages/session/session-projection-cache
+64	/Users/USER/Documents/Codex/2026-08-09/upwork-live-job-hunt/outputs
+56	/Users/USER/Documents/skills/deepseek-harness/python/sdk-runtime
+56	/Users/USER/Documents/skills/deepseek-harness/packages/code-runtime/code-runtime
+56	/Users/USER/Documents/Codex/2026-08-14/windows-deepseek-skills-pack-2026-08-14/outputs
+56	/Users/USER/Documents/Codex/2026-07-24/new-chat/outputs
+52	/Users/USER/Documents/skills/deepseek-harness/packages/runtime-diagnostics
+52	/Users/USER/Documents/Codex/2026-08-11/xu-xi/outputs
+52	/Users/USER/Documents/Codex/2026-08-10/upwork-immediate-income-jobs-2026-08-10/outputs
+48	/Users/USER/Documents/Codex/2026-08-09/global-governance-repair-20260809/outputs/deactivated-skill-archive
+44	/Users/USER/Documents/Codex/2026-08-07/global-freelance-platform-research/outputs
+36	/Users/USER/Documents/Codex/2026-08-09/global-config-repair-20260809/outputs
+36	/Users/USER/Documents/Codex/2026-07-18/bang-w/outputs
+32	/Users/USER/Documents/Codex/2026-08-09/global-governance-repair-independent-review-20260809/outputs
+32	/Users/USER/Documents/Codex/2026-08-07/upwork-job-screening/outputs
+28	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/CompilationCache.noindex
+28	/Users/USER/Documents/Codex/2026-08-07/china-freelance-platform-research/outputs
+24	/Users/USER/Documents/Codex/2026-08-13/furniture-top100-research/outputs
+24	/Users/USER/Documents/Codex/2026-08-10/upwork-short-job-verification-2026-08-10/outputs
+24	/Users/USER/Documents/Codex/2026-08-09/global-governance-final-re-review-20260809/outputs
+20	/Users/USER/Documents/eli/skills/evidence-gated-project-workflow
+20	/Users/USER/Documents/Codex/2026-08-14/deepseek-harness-2026-08-14/outputs
+20	/Users/USER/Documents/Codex/2026-08-07/upwork-portfolio-independent-review/outputs
+16	/Users/USER/Documents/eli/outputs
+16	/Users/USER/Documents/Codex/2026-08-13/2026-08-13/outputs
+16	/Users/USER/Documents/Codex/2026-08-10/upwork-idv-badge-roi-2026-08-10/outputs
+16	/Users/USER/Documents/Codex/2026-08-10/upwork-daily-deliverable-jobs-2026-08-10/outputs
+16	/Users/USER/Documents/Codex/2026-08-09/eli-identity-cleanup-audit-20260809/outputs
+16	/Users/USER/Documents/Codex/2026-08-07/global-agents-independent-review-20260807/outputs
+16	/Users/USER/Documents/Codex/2026-06-12/cad-stl-3d/outputs
+12	/Users/USER/Documents/skills/deepseek-harness/.agents/skills/dsh-archive-agent-notes
+12	/Users/USER/Documents/serenity/.planning/2026-06-09-serenity-x-full-archive
+12	/Users/USER/Documents/Codex/2026-08-12/tokendance-https-tokendance-space-docs-ai/outputs
+12	/Users/USER/Documents/Codex/2026-07-28/new-chat/outputs
+12	/Users/USER/Documents/Codex/2026-07-10/codex/outputs
+8	/Users/USER/Documents/app/真实发型试戴MVP/iOS模拟器MVP/.build-device
+8	/Users/USER/Documents/Codex/2026-08-07/xcode-dual-version-disk-audit-20260807/outputs
+4	/Users/USER/Documents/app/.agents/tools/SwiftLint/.buildkite
+4	/Users/USER/Documents/Hermes/乔帮主安全修复/tests/__pycache__
+4	/Users/USER/Documents/Codex/2026-07-31/design-prompt-targo-hero-section-brand-2/build
+4	/Users/USER/Documents/Codex/2026-07-31/bang/work/__pycache__
+4	/Users/USER/Documents/Codex/2026-07-13/sites-plugin-sites-openai-bundled-sites/build
+4	/Users/USER/Documents/Codex/2026-07-12/sites-plugin-sites-openai-bundled-2/build
+0	/Users/USER/Documents/量化/quant-crypto-research-v1/logs
+0	/Users/USER/Documents/obsidian辅助记忆库/04_Outputs
+0	/Users/USER/Documents/app/自律宠物-iOS/自律宠物-iOS/Evidence
+0	/Users/USER/Documents/app/自律宠物-iOS/build/SwiftExplicitPrecompiledModules/swbuild.tmp.wGjJRqig
+0	/Users/USER/Documents/app/自律宠物-iOS/build/SwiftExplicitPrecompiledModules/swbuild.tmp.5lNwyJoJ
+0	/Users/USER/Documents/app/自律宠物-iOS/build/SwiftExplicitPrecompiledModules/swbuild.tmp.0O8Psveh
+0	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/ModuleCache.noindex/swbuild.tmp.myxNZUYp
+0	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04/ModuleCache.noindex/swbuild.tmp.k8l4z8Cd
+0	/Users/USER/Documents/Codex/2026-08-17/disk-cleanup-audit-2026-08-17/outputs
+0	/Users/USER/Documents/Codex/2026-08-15/referenced-chatgpt-conversation-this-is-an/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/youtube-first-users-eqfzce3mktu/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/realtime-voice-chat/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/realtime-voice-chat-2/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/global-governance-disk-audit-20260814/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/eli-disk-audit-2026-08-14/outputs
+0	/Users/USER/Documents/Codex/2026-08-14/deepseek-harness-smoke-2026-08-14/outputs
+0	/Users/USER/Documents/Codex/2026-08-12/penguinharness-lexar-install/outputs
+0	/Users/USER/Documents/Codex/2026-08-12/disciplined-pet-naming/outputs
+0	/Users/USER/Documents/Codex/2026-08-11/xu/outputs
+0	/Users/USER/Documents/Codex/2026-08-11/https-uumit-org-https-uumit-org/outputs
+0	/Users/USER/Documents/Codex/2026-08-11/codex-reconnecting-readonly-verification-20260811/outputs
+0	/Users/USER/Documents/Codex/2026-08-10/wo-xu/outputs
+0	/Users/USER/Documents/Codex/2026-08-10/self-discipline-pet-p0-audit/outputs
+0	/Users/USER/Documents/Codex/2026-08-10/clashfx-download/outputs
+0	/Users/USER/Documents/Codex/2026-08-10/0-4/outputs
+0	/Users/USER/Documents/Codex/2026-08-09/you/outputs
+0	/Users/USER/Documents/Codex/2026-08-09/eli-control-plane-deidentity-20260809/outputs
+0	/Users/USER/Documents/Codex/2026-08-09/codex-reconnect-diagnosis-20260809/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/xianyu-github-research/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/xi/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/realtime-voice-chat/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/realtime-voice-chat-2/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/project-residual-cleanup-20260808/outputs
+0	/Users/USER/Documents/Codex/2026-08-08/jie-d/outputs
+0	/Users/USER/Documents/Codex/2026-08-07/woya/outputs
+-- artifact-like directories: lexar selected bounded --
+642000	/Volumes/EXTERNAL/wl/output
+363016	/Volumes/EXTERNAL/wl/tmp
+42992	/Volumes/EXTERNAL/小红书/release-packages
+11412	/Volumes/EXTERNAL/deepseek-harness/apps/web/dist
+11176	/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/Logo透明化交付_20260716/output
+9308	/Volumes/EXTERNAL/小红书/docs/evidence
+8600	/Volumes/EXTERNAL/海外落地页/client_bright_velo/output
+8232	/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/Logo透明化交付_20260716/output 2
+3452	/Volumes/EXTERNAL/deepseek-harness/packages/client/runtime
+2532	/Volumes/EXTERNAL/deepseek-harness/.agents/notes/archived
+2000	/Volumes/EXTERNAL/小红书/data/content-jobs/4f12c1ee-22eb-4d94-aeca-650332430478/generated
+1892	/Volumes/EXTERNAL/海外落地页/client_bright_velo/site/output
+1784	/Volumes/EXTERNAL/咸鱼/assets/archive
+1480	/Volumes/EXTERNAL/海外落地页/client_ray_tobin_signs/demo/output
+756	/Volumes/EXTERNAL/deepseek-harness/packages/code-runtime
+708	/Volumes/EXTERNAL/海外落地页/client_peter_izzard_photography/output
+564	/Volumes/EXTERNAL/deepseek-harness/packages/code-runtime/code-runtime-worker-thread
+512	/Volumes/EXTERNAL/deepseek-harness/packages/test-support/client-runtime
+480	/Volumes/EXTERNAL/小红书/app/backend/dist
+348	/Volumes/EXTERNAL/小红书/app/frontend/dist
+276	/Volumes/EXTERNAL/海外落地页/demo_infrastructure_spike_v0.1_2026-08-14/output
+272	/Volumes/EXTERNAL/咸鱼/third_party/goofish-cli/tests/__pycache__
+228	/Volumes/EXTERNAL/deepseek-harness/packages/session/session-projection-cache
+228	/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/OVOPS企业获客思维导图/dist
+216	/Volumes/EXTERNAL/海外落地页/client_bright_velo/site/dist
+196	/Volumes/EXTERNAL/deepseek-harness/packages/util/output-retention
+180	/Volumes/EXTERNAL/deepseek-harness/packages/code-runtime/code-runtime
+156	/Volumes/EXTERNAL/deepseek-harness/packages/runtime-diagnostics
+148	/Volumes/EXTERNAL/小红书/packages/domain/dist
+96	/Volumes/EXTERNAL/wl/__pycache__
+92	/Volumes/EXTERNAL/小红书/data/logs
+72	/Volumes/EXTERNAL/deepseek-harness/scripts/release
+60	/Volumes/EXTERNAL/deepseek-harness/python/sdk-runtime
+24	/Volumes/EXTERNAL/咸鱼/third_party/goofish-cli/.pytest_cache
+24	/Volumes/EXTERNAL/Eli归档/旧组织隔离归档_20260809/contents/Codex工具只读取证_20260716/logs
+20	/Volumes/EXTERNAL/咸鱼/third_party/goofish-cli/src/goofish_cli/__pycache__
+20	/Volumes/EXTERNAL/咸鱼/scripts/__pycache__
+16	/Volumes/EXTERNAL/咸鱼/third_party/goofish-cli/.ruff_cache
+16	/Volumes/EXTERNAL/deepseek-harness/python/sdk-runtime/src/deepseek_harness_runtime
+16	/Volumes/EXTERNAL/deepseek-harness/packages/typert/generator/tests/.generated-model-qwn8sk
+16	/Volumes/EXTERNAL/deepseek-harness/packages/typert/generator/tests/.generated-model-O7FJNT
+12	/Volumes/EXTERNAL/咸鱼/third_party/goofish-cli/.pytest_cache/v/cache
+12	/Volumes/EXTERNAL/deepseek-harness/.agents/skills/dsh-archive-agent-notes
+8	/Volumes/EXTERNAL/海外落地页/demo_infrastructure_spike_v0.1_2026-08-14/.wrangler/cache
+8	/Volumes/EXTERNAL/海外落地页/.wrangler/cache
+8	/Volumes/EXTERNAL/咸鱼/bin/__pycache__
+8	/Volumes/EXTERNAL/咸鱼/.ruff_cache
+8	/Volumes/EXTERNAL/deepseek-harness/apps/web/tests/snapshots/web-runtime-context
+4	/Volumes/EXTERNAL/小红书/runtime
+4	/Volumes/EXTERNAL/小红书/data/output
+4	/Volumes/EXTERNAL/deepseek-harness/python/sdk-runtime/src/deepseek_harness_runtime/runtime
+0	/Volumes/EXTERNAL/海外落地页/demo_infrastructure_spike_v0.1_2026-08-14/.wrangler/tmp
+0	/Volumes/EXTERNAL/小红书/app/backend/data/logs
+0	/Volumes/EXTERNAL/小红书/.pnpm-store/v11/.tmp
+0	/Volumes/EXTERNAL/咸鱼/.runtime/goofish/xdg/cache
+0	/Volumes/EXTERNAL/咸鱼/.runtime
+-- cache child metadata (size, mtime, path) --
+96\t1780156550\t2026-05-30 23:55:50 +0800\t/Users/USER/Library/Caches/com.apple.AvatarKit
+96\t1780156550\t2026-05-30 23:55:50 +0800\t/Users/USER/Library/Caches/com.apple.AvatarKit/AvatarKit-356.100
+192\t1780134303\t2026-05-30 17:45:03 +0800\t/Users/USER/Library/Caches/com.apple.appleaccountd
+96\t1786944826\t2026-08-17 13:33:46 +0800\t/Users/USER/Library/Caches/com.apple.appleaccountd/fsCachedData
+192\t1782381455\t2026-06-25 17:57:35 +0800\t/Users/USER/Library/Caches/familycircled
+352\t1786952309\t2026-08-17 15:38:29 +0800\t/Users/USER/Library/Caches/com.apple.helpd
+2976\t1786952304\t2026-08-17 15:38:24 +0800\t/Users/USER/Library/Caches/com.apple.helpd/Generated
+5312\t1786952293\t2026-08-17 15:38:13 +0800\t/Users/USER/Library/Caches/com.apple.helpd/fsCachedData
+96\t1780135653\t2026-05-30 18:07:33 +0800\t/Users/USER/Library/Caches/com.apple.helpd/NSFileProtectionCompleteUntilFirstUserAuthentication
+192\t1780140592\t2026-05-30 19:29:52 +0800\t/Users/USER/Library/Caches/com.google.GoogleUpdater
+64\t1780140592\t2026-05-30 19:29:52 +0800\t/Users/USER/Library/Caches/com.google.GoogleUpdater/fsCachedData
+224\t1786091207\t2026-08-07 16:26:47 +0800\t/Users/USER/Library/Caches/com.apple.dt.Xcode
+64\t1786847484\t2026-08-16 10:31:24 +0800\t/Users/USER/Library/Caches/com.apple.dt.Xcode/fsCachedData
+2432\t1786951317\t2026-08-17 15:21:57 +0800\t/Users/USER/Library/Caches/com.apple.dt.Xcode/TestReport
+320\t1786938265\t2026-08-17 11:44:25 +0800\t/Users/USER/Library/Caches/GeoServices
+128\t1780134339\t2026-05-30 17:45:39 +0800\t/Users/USER/Library/Caches/GeoServices/SearchAttribution
+5216\t1786578377\t2026-08-13 07:46:17 +0800\t/Users/USER/Library/Caches/GeoServices/Resources
+10240\t1786760958\t2026-08-15 10:29:18 +0800\t/Users/USER/Library/Caches/GeoServices/RegionalResources
+192\t1780191910\t2026-05-31 09:45:10 +0800\t/Users/USER/Library/Caches/com.apple.managedappdistributionagent
+64\t1786951240\t2026-08-17 15:20:40 +0800\t/Users/USER/Library/Caches/com.apple.managedappdistributionagent/fsCachedData
+288\t1784037670\t2026-07-14 22:01:10 +0800\t/Users/USER/Library/Caches/com.apple.Music
+64\t1784037670\t2026-07-14 22:01:10 +0800\t/Users/USER/Library/Caches/com.apple.Music/MusicUIVideoArtworkCache
+160\t1786103038\t2026-08-07 19:43:58 +0800\t/Users/USER/Library/Caches/com.apple.Music/fsCachedData
+192\t1784037670\t2026-07-14 22:01:10 +0800\t/Users/USER/Library/Caches/com.apple.Music/MusicUIArtworkCache
+96\t1786513613\t2026-08-12 13:46:53 +0800\t/Users/USER/Library/Caches/com.apple.cds.vbtx
+64\t1786697467\t2026-08-14 16:51:07 +0800\t/Users/USER/Library/Caches/com.apple.cds.vbtx/ResumeFiles
+224\t1781325650\t2026-06-13 12:40:50 +0800\t/Users/USER/Library/Caches/com.apple.storekitagent
+160\t1786951520\t2026-08-17 15:25:20 +0800\t/Users/USER/Library/Caches/com.apple.storekitagent/fsCachedData
+64\t1781325650\t2026-06-13 12:40:50 +0800\t/Users/USER/Library/Caches/com.apple.storekitagent/Octane
+128\t1780134585\t2026-05-30 17:49:45 +0800\t/Users/USER/Library/Caches/com.apple.HomeKit
+160\t1780177531\t2026-05-31 05:45:31 +0800\t/Users/USER/Library/Caches/com.apple.proactive.eventtracker
+160\t1780289934\t2026-06-01 12:58:54 +0800\t/Users/USER/Library/Caches/com.apple.proactive.eventtracker/log_stores
+192\t1786511242\t2026-08-12 13:07:22 +0800\t/Users/USER/Library/Caches/com.apple.dt.xcodebuild
+64\t1786511242\t2026-08-12 13:07:22 +0800\t/Users/USER/Library/Caches/com.apple.dt.xcodebuild/fsCachedData
+96\t1782050621\t2026-06-21 22:03:41 +0800\t/Users/USER/Library/Caches/com.apple.findmy.findmylocateagent
+64\t1780227689\t2026-05-31 19:41:29 +0800\t/Users/USER/Library/Caches/TrickPlay
+192\t1783993053\t2026-07-14 09:37:33 +0800\t/Users/USER/Library/Caches/com.openai.chat
+96\t1780547171\t2026-06-04 12:26:11 +0800\t/Users/USER/Library/Caches/com.openai.chat/com.onevcat.Kingfisher.ImageCache
+192\t1786946466\t2026-08-17 14:01:06 +0800\t/Users/USER/Library/Caches/PassKit
+64\t1780135301\t2026-05-30 18:01:41 +0800\t/Users/USER/Library/Caches/PassKit/RemoteCards
+1184\t1786197766\t2026-08-08 22:02:46 +0800\t/Users/USER/Library/Caches/PassKit/PassAssetCache
+96\t1780135301\t2026-05-30 18:01:41 +0800\t/Users/USER/Library/Caches/PassKit/RecipientCache
+160\t1786604701\t2026-08-13 15:05:01 +0800\t/Users/USER/Library/Caches/com.openai.atlas
+96\t1786604696\t2026-08-13 15:04:56 +0800\t/Users/USER/Library/Caches/com.openai.atlas/com.onevcat.Kingfisher.ImageCache
+96\t1786604701\t2026-08-13 15:05:01 +0800\t/Users/USER/Library/Caches/com.openai.atlas/browser-data
+192\t1780286967\t2026-06-01 12:09:27 +0800\t/Users/USER/Library/Caches/com.openai.sky.CUAService.cli
+64\t1780286967\t2026-06-01 12:09:27 +0800\t/Users/USER/Library/Caches/com.openai.sky.CUAService.cli/fsCachedData
+2112\t1785238382\t2026-07-28 19:33:02 +0800\t/Users/USER/Library/Caches/CloudKit
+192\t1782488316\t2026-06-26 23:38:36 +0800\t/Users/USER/Library/Caches/com.apple.SoftwareUpdateNotificationManager
+64\t1782488316\t2026-06-26 23:38:36 +0800\t/Users/USER/Library/Caches/com.apple.SoftwareUpdateNotificationManager/fsCachedData
+160\t1786101212\t2026-08-07 19:13:32 +0800\t/Users/USER/Library/Caches/com.microsoft.VSCode.ShipIt
+928\t1785413699\t2026-07-30 20:14:59 +0800\t/Users/USER/Library/Caches/Animoji
+256\t1780134431\t2026-05-30 17:47:11 +0800\t/Users/USER/Library/Caches/com.apple.SetupAssistant
+384\t1785588600\t2026-08-01 20:50:00 +0800\t/Users/USER/Library/Caches/com.apple.SetupAssistant/fsCachedData
+192\t1780134302\t2026-05-30 17:45:02 +0800\t/Users/USER/Library/Caches/com.apple.akd
+96\t1786946554\t2026-08-17 14:02:34 +0800\t/Users/USER/Library/Caches/com.apple.akd/fsCachedData
+192\t1781883911\t2026-06-19 23:45:11 +0800\t/Users/USER/Library/Caches/com.apple.FeatureAccessAgent
+64\t1781883911\t2026-06-19 23:45:11 +0800\t/Users/USER/Library/Caches/com.apple.FeatureAccessAgent/fsCachedData
+96\t1786197865\t2026-08-08 22:04:25 +0800\t/Users/USER/Library/Caches/com.apple.e5rt.e5bundlecache
+128\t1786197866\t2026-08-08 22:04:26 +0800\t/Users/USER/Library/Caches/com.apple.e5rt.e5bundlecache/25G76
+192\t1785644839\t2026-08-02 12:27:19 +0800\t/Users/USER/Library/Caches/com.electron.lark.helper
+64\t1786501859\t2026-08-12 10:30:59 +0800\t/Users/USER/Library/Caches/com.electron.lark.helper/fsCachedData
+96\t1786671115\t2026-08-14 09:31:55 +0800\t/Users/USER/Library/Caches/com.clashfx.app.sparkle
+160\t1786671115\t2026-08-14 09:31:55 +0800\t/Users/USER/Library/Caches/com.clashfx.app.sparkle/org.sparkle-project.Sparkle
+96\t1780134322\t2026-05-30 17:45:22 +0800\t/Users/USER/Library/Caches/com.apple.Safari
+96\t1784894732\t2026-07-24 20:05:32 +0800\t/Users/USER/Library/Caches/claude-cli-nodejs
+96\t1784894732\t2026-07-24 20:05:32 +0800\t/Users/USER/Library/Caches/claude-cli-nodejs/-Users-cczij-Library-Application-Support-Claude-3p-local-agent-mode-sessions-8885f4a2-00000000-local-1a981fab-eb28-441a-855b-29938d164a12-outputs
+96\t1780135137\t2026-05-30 17:58:57 +0800\t/Users/USER/Library/Caches/com.apple.iBooksX
+160\t1780135137\t2026-05-30 17:58:57 +0800\t/Users/USER/Library/Caches/com.apple.iBooksX/CommerceRequestCache
+160\t1780139575\t2026-05-30 19:12:55 +0800\t/Users/USER/Library/Caches/GameKit
+96\t1780135886\t2026-05-30 18:11:26 +0800\t/Users/USER/Library/Caches/GameKit/staging
+96\t1780139575\t2026-05-30 19:12:55 +0800\t/Users/USER/Library/Caches/GameKit/Images
+96\t1786678644\t2026-08-14 11:37:24 +0800\t/Users/USER/Library/Caches/GameKit/StoreBag
+128\t1786871310\t2026-08-16 17:08:30 +0800\t/Users/USER/Library/Caches/Google
+96\t1786603741\t2026-08-13 14:49:01 +0800\t/Users/USER/Library/Caches/Google/Chrome
+704\t1786886438\t2026-08-16 21:20:38 +0800\t/Users/USER/Library/Caches/Google/Chrome-headless
+192\t1786513550\t2026-08-12 13:45:50 +0800\t/Users/USER/Library/Caches/com.apple.itunes.swinfo
+64\t1786513550\t2026-08-12 13:45:50 +0800\t/Users/USER/Library/Caches/com.apple.itunes.swinfo/fsCachedData
+192\t1786692732\t2026-08-14 15:32:12 +0800\t/Users/USER/Library/Caches/com.apple.itunes.altoolShim
+64\t1786692732\t2026-08-14 15:32:12 +0800\t/Users/USER/Library/Caches/com.apple.itunes.altoolShim/fsCachedData
+96\t1783172259\t2026-07-04 21:37:39 +0800\t/Users/USER/Library/Caches/typescript
+160\t1783172263\t2026-07-04 21:37:43 +0800\t/Users/USER/Library/Caches/typescript/6.0
+96\t1785486314\t2026-07-31 16:25:14 +0800\t/Users/USER/Library/Caches/docker-secrets-engine
+160\t1780134589\t2026-05-30 17:49:49 +0800\t/Users/USER/Library/Caches/com.apple.assistant_service
+192\t1784962029\t2026-07-25 14:47:09 +0800\t/Users/USER/Library/Caches/com.apple.betaenrollmentagent
+64\t1784962029\t2026-07-25 14:47:09 +0800\t/Users/USER/Library/Caches/com.apple.betaenrollmentagent/fsCachedData
+96\t1780134588\t2026-05-30 17:49:48 +0800\t/Users/USER/Library/Caches/com.apple.Spotlight
+96\t1786197793\t2026-08-08 22:03:13 +0800\t/Users/USER/Library/Caches/com.apple.Spotlight/com.apple.e5rt.e5bundlecache
+128\t1786675748\t2026-08-14 10:49:08 +0800\t/Users/USER/Library/Caches/Codex
+160\t1786675748\t2026-08-14 10:49:08 +0800\t/Users/USER/Library/Caches/Codex/Default
+128\t1786675748\t2026-08-14 10:49:08 +0800\t/Users/USER/Library/Caches/Codex/codex-browser-app
+96\t1780206323\t2026-05-31 13:45:23 +0800\t/Users/USER/Library/Caches/com.apple.businessservicesd
+64\t1786952419\t2026-08-17 15:40:19 +0800\t/Users/USER/Library/Caches/com.apple.businessservicesd/temp
+224\t1786697140\t2026-08-14 16:45:40 +0800\t/Users/USER/Library/Caches/pnpm
+96\t1786605055\t2026-08-13 15:10:55 +0800\t/Users/USER/Library/Caches/pnpm/metadata-v1.3
+96\t1786697140\t2026-08-14 16:45:40 +0800\t/Users/USER/Library/Caches/pnpm/metadata-ff-v1.3
+96\t1786605055\t2026-08-13 15:10:55 +0800\t/Users/USER/Library/Caches/pnpm/metadata-full-v1.3
+128\t1786668159\t2026-08-14 08:42:39 +0800\t/Users/USER/Library/Caches/pnpm/v11
+192\t1786092721\t2026-08-07 16:52:01 +0800\t/Users/USER/Library/Caches/com.west2online.ClashX
+64\t1786092721\t2026-08-07 16:52:01 +0800\t/Users/USER/Library/Caches/com.west2online.ClashX/fsCachedData
+96\t1780134418\t2026-05-30 17:46:58 +0800\t/Users/USER/Library/Caches/com.apple.gamed
+672\t1786891232\t2026-08-16 22:40:32 +0800\t/Users/USER/Library/Caches/com.apple.appstoreagent
+448\t1786935725\t2026-08-17 11:02:05 +0800\t/Users/USER/Library/Caches/com.apple.appstoreagent/fsCachedData
+192\t1780134303\t2026-05-30 17:45:03 +0800\t/Users/USER/Library/Caches/com.apple.accountsd
+224\t1786501860\t2026-08-12 10:31:00 +0800\t/Users/USER/Library/Caches/com.apple.accountsd/fsCachedData
+128\t1784469756\t2026-07-19 22:02:36 +0800\t/Users/USER/Library/Caches/com.apple.DictionaryServices
+96\t1780134300\t2026-05-30 17:45:00 +0800\t/Users/USER/Library/Caches/com.apple.CloudTelemetry
+192\t1780154847\t2026-05-30 23:27:27 +0800\t/Users/USER/Library/Caches/com.apple.CloudTelemetry/XPCService
+160\t1786907164\t2026-08-17 03:06:04 +0800\t/Users/USER/Library/Caches/com.apple.geoanalyticsd
+192\t1783517672\t2026-07-08 21:34:32 +0800\t/Users/USER/Library/Caches/com.github.GitHubClient
+64\t1783517672\t2026-07-08 21:34:32 +0800\t/Users/USER/Library/Caches/com.github.GitHubClient/fsCachedData
+192\t1780220722\t2026-05-31 17:45:22 +0800\t/Users/USER/Library/Caches/com.apple.nbagent
+64\t1786909669\t2026-08-17 03:47:49 +0800\t/Users/USER/Library/Caches/com.apple.nbagent/fsCachedData
+128\t1780547172\t2026-06-04 12:26:12 +0800\t/Users/USER/Library/Caches/statsig-cache
+64\t1786936387\t2026-08-17 11:13:07 +0800\t/Users/USER/Library/Caches/statsig-cache/client-br04gwIKFntB05BUONtNnF3NhWQsvmSI8R97Pigr7A5
+96\t1783427411\t2026-07-07 20:30:11 +0800\t/Users/USER/Library/Caches/statsig-cache/client-qs8mEvZTRkamsK5AqwsBaPfGX3CwPOs4it0lVlPGKcu
+192\t1780663553\t2026-06-05 20:45:53 +0800\t/Users/USER/Library/Caches/com.apple.tipsd
+64\t1786847484\t2026-08-16 10:31:24 +0800\t/Users/USER/Library/Caches/com.apple.tipsd/fsCachedData
+160\t1785816737\t2026-08-04 12:12:17 +0800\t/Users/USER/Library/Caches/LarkShell
+96\t1785644838\t2026-08-02 12:27:18 +0800\t/Users/USER/Library/Caches/LarkShell/security
+96\t1785644837\t2026-08-02 12:27:17 +0800\t/Users/USER/Library/Caches/LarkShell/aha
+96\t1785816737\t2026-08-04 12:12:17 +0800\t/Users/USER/Library/Caches/LarkShell/iron
+192\t1780134310\t2026-05-30 17:45:10 +0800\t/Users/USER/Library/Caches/com.apple.itunescloudd
+224\t1786951521\t2026-08-17 15:25:21 +0800\t/Users/USER/Library/Caches/com.apple.itunescloudd/fsCachedData
+96\t1780134320\t2026-05-30 17:45:20 +0800\t/Users/USER/Library/Caches/com.apple.sirittsd
+576\t1785166399\t2026-07-27 23:33:19 +0800\t/Users/USER/Library/Caches/com.apple.sirittsd/SynthesisCache
+96\t1780134306\t2026-05-30 17:45:06 +0800\t/Users/USER/Library/Caches/com.apple.nsurlsessiond
+384\t1783014335\t2026-07-03 01:45:35 +0800\t/Users/USER/Library/Caches/com.apple.nsurlsessiond/Downloads
+64\t1783517230\t2026-07-08 21:27:10 +0800\t/Users/USER/Library/Caches/com.github.GitHubClient.ShipIt
+96\t1784963220\t2026-07-25 15:07:00 +0800\t/Users/USER/Library/Caches/Docker Desktop
+96\t1784963220\t2026-07-25 15:07:00 +0800\t/Users/USER/Library/Caches/Docker Desktop/bugsnag
+192\t1785550981\t2026-08-01 10:23:01 +0800\t/Users/USER/Library/Caches/com.apple.icloudwebd
+64\t1786935725\t2026-08-17 11:02:05 +0800\t/Users/USER/Library/Caches/com.apple.icloudwebd/fsCachedData
+160\t1781944751\t2026-06-20 16:39:11 +0800\t/Users/USER/Library/Caches/com.apple.coreservices.uiagent
+96\t1780134299\t2026-05-30 17:44:59 +0800\t/Users/USER/Library/Caches/com.apple.containermanagerd
+96\t1780135137\t2026-05-30 17:58:57 +0800\t/Users/USER/Library/Caches/com.apple.appstore
+192\t1781671346\t2026-06-17 12:42:26 +0800\t/Users/USER/Library/Caches/com.apple.appstore/CommerceRequestCache
+128\t1780135480\t2026-05-30 18:04:40 +0800\t/Users/USER/Library/Caches/JetPackCache
+96\t1780134423\t2026-05-30 17:47:03 +0800\t/Users/USER/Library/Caches/JetPackCache/assets
+160\t1786884975\t2026-08-16 20:56:15 +0800\t/Users/USER/Library/Caches/pip
+224\t1786885002\t2026-08-16 20:56:42 +0800\t/Users/USER/Library/Caches/pip/wheels
+480\t1786884968\t2026-08-16 20:56:08 +0800\t/Users/USER/Library/Caches/pip/http
+128\t1786884958\t2026-08-16 20:55:58 +0800\t/Users/USER/Library/Caches/pip/selfcheck
+160\t1781403036\t2026-06-14 10:10:36 +0800\t/Users/USER/Library/Caches/ssu
+64\t1781403036\t2026-06-14 10:10:36 +0800\t/Users/USER/Library/Caches/ssu/locales
+64\t1781403036\t2026-06-14 10:10:36 +0800\t/Users/USER/Library/Caches/ssu/temporary
+224\t1786102826\t2026-08-07 19:40:26 +0800\t/Users/USER/Library/Caches/com.clashfx.app
+192\t1786789334\t2026-08-15 18:22:14 +0800\t/Users/USER/Library/Caches/com.clashfx.app/WebKit
+64\t1786946554\t2026-08-17 14:02:34 +0800\t/Users/USER/Library/Caches/com.clashfx.app/fsCachedData
+192\t1784548835\t2026-07-20 20:00:35 +0800\t/Users/USER/Library/Caches/chrome_crashpad_handler
+64\t1784548835\t2026-07-20 20:00:35 +0800\t/Users/USER/Library/Caches/chrome_crashpad_handler/fsCachedData
+192\t1780134418\t2026-05-30 17:46:58 +0800\t/Users/USER/Library/Caches/mbuseragent
+96\t1785588600\t2026-08-01 20:50:00 +0800\t/Users/USER/Library/Caches/mbuseragent/fsCachedData
+192\t1780136980\t2026-05-30 18:29:40 +0800\t/Users/USER/Library/Caches/com.openai.sky.CUAService
+64\t1786883328\t2026-08-16 20:28:48 +0800\t/Users/USER/Library/Caches/com.openai.sky.CUAService/fsCachedData
+64\t1781403036\t2026-06-14 10:10:36 +0800\t/Users/USER/Library/Caches/com.apple.AssistantServices
+192\t1780135301\t2026-05-30 18:01:41 +0800\t/Users/USER/Library/Caches/com.apple.passd
+64\t1786501860\t2026-08-12 10:31:00 +0800\t/Users/USER/Library/Caches/com.apple.passd/fsCachedData
+256\t1786349076\t2026-08-10 16:04:36 +0800\t/Users/USER/Library/Caches/org.swift.swiftpm
+64\t1785585425\t2026-08-01 19:57:05 +0800\t/Users/USER/Library/Caches/org.swift.swiftpm/package-metadata
+384\t1786349080\t2026-08-10 16:04:40 +0800\t/Users/USER/Library/Caches/org.swift.swiftpm/repositories
+160\t1786349073\t2026-08-10 16:04:33 +0800\t/Users/USER/Library/Caches/org.swift.swiftpm/manifests
+192\t1785984092\t2026-08-06 10:41:32 +0800\t/Users/USER/Library/Caches/reasonix
+256\t1786350040\t2026-08-10 16:20:40 +0800\t/Users/USER/Library/Caches/reasonix/repair-mutation-locks
+160\t1786350040\t2026-08-10 16:20:40 +0800\t/Users/USER/Library/Caches/reasonix/updates
+64\t1785984092\t2026-08-06 10:41:32 +0800\t/Users/USER/Library/Caches/reasonix/workspace-leases
+288\t1786350129\t2026-08-10 16:22:09 +0800\t/Users/USER/Library/Caches/reasonix/environment
+128\t1780134306\t2026-05-30 17:45:06 +0800\t/Users/USER/Library/Caches/com.apple.chrono
+64\t1780134306\t2026-05-30 17:45:06 +0800\t/Users/USER/Library/Caches/com.apple.chrono/snapshot-cache
+256\t1786761290\t2026-08-15 10:34:50 +0800\t/Users/USER/Library/Caches/com.apple.chrono/widget-relevance-cache
+352\t1785501589\t2026-07-31 20:39:49 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices
+416\t1785582495\t2026-08-01 19:08:15 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/Metrics
+288\t1785773546\t2026-08-04 00:12:26 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/com.apple.AppleMediaServicesKit
+64\t1780139575\t2026-05-30 19:12:55 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/feature-flags
+160\t1786891224\t2026-08-16 22:40:24 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/DynamicUI
+160\t1780134320\t2026-05-30 17:45:20 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/Storage
+256\t1786891236\t2026-08-16 22:40:36 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/Engagement
+64\t1780134427\t2026-05-30 17:47:07 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/fpdi
+96\t1786761353\t2026-08-15 10:35:53 +0800\t/Users/USER/Library/Caches/com.apple.AppleMediaServices/PaymentSheetsUI
+192\t1786952200\t2026-08-17 15:36:40 +0800\t/Users/USER/Library/Caches/com.apple.remindd
+160\t1786946466\t2026-08-17 14:01:06 +0800\t/Users/USER/Library/Caches/com.apple.dataaccess.dataaccessd
+192\t1786606282\t2026-08-13 15:31:22 +0800\t/Users/USER/Library/Caches/com.apple.python
+128\t1786884957\t2026-08-16 20:55:57 +0800\t/Users/USER/Library/Caches/com.apple.python/private
+96\t1785597942\t2026-08-01 23:25:42 +0800\t/Users/USER/Library/Caches/com.apple.python/Users
+96\t1785597932\t2026-08-01 23:25:32 +0800\t/Users/USER/Library/Caches/com.apple.python/Applications
+96\t1786606282\t2026-08-13 15:31:22 +0800\t/Users/USER/Library/Caches/com.apple.python/Volumes
+192\t1786079854\t2026-08-07 13:17:34 +0800\t/Users/USER/Library/Caches/com.apple.dt.Xcode.ITunesSoftwareService
+64\t1786079854\t2026-08-07 13:17:34 +0800\t/Users/USER/Library/Caches/com.apple.dt.Xcode.ITunesSoftwareService/fsCachedData
+192\t1785378220\t2026-07-30 10:23:40 +0800\t/Users/USER/Library/Caches/com.apple.Safari.SafeBrowsing
+576\t1783319300\t2026-07-06 14:28:20 +0800\t/Users/USER/Library/Caches/checkpoint-nodejs
+64\t1780227689\t2026-05-31 19:41:29 +0800\t/Users/USER/Library/Caches/LSMImageCache
+64\t1786697467\t2026-08-14 16:51:07 +0800\t/Users/USER/Library/Caches/com.apple.cds
+192\t1786932440\t2026-08-17 10:07:20 +0800\t/Users/USER/Library/Caches/com.apple.parsecd
+160\t1780139923\t2026-05-30 19:18:43 +0800\t/Users/USER/Library/Caches/com.apple.parsecd/Cohorts
+640\t1780134306\t2026-05-30 17:45:06 +0800\t/Users/USER/Library/Caches/com.apple.parsecd/CustomFeedback
+224\t1780459773\t2026-06-03 12:09:33 +0800\t/Users/USER/Library/Caches/com.openai.codex
+160\t1786788243\t2026-08-15 18:04:03 +0800\t/Users/USER/Library/Caches/com.openai.codex/org.sparkle-project.Sparkle
+64\t1786883328\t2026-08-16 20:28:48 +0800\t/Users/USER/Library/Caches/com.openai.codex/fsCachedData
+192\t1780145808\t2026-05-30 20:56:48 +0800\t/Users/USER/Library/Caches/com.apple.shazamd
+64\t1785588599\t2026-08-01 20:49:59 +0800\t/Users/USER/Library/Caches/com.apple.shazamd/fsCachedData
+224\t1780135137\t2026-05-30 17:58:57 +0800\t/Users/USER/Library/Caches/com.apple.bird
+64\t1780134613\t2026-05-30 17:50:13 +0800\t/Users/USER/Library/Caches/com.apple.bird/unlink
+96\t1780889772\t2026-06-08 11:36:12 +0800\t/Users/USER/Library/Caches/com.apple.bird/fsCachedData
+192\t1781325873\t2026-06-13 12:44:33 +0800\t/Users/USER/Library/Caches/com.microsoft.VSCode
+64\t1781325873\t2026-06-13 12:44:33 +0800\t/Users/USER/Library/Caches/com.microsoft.VSCode/fsCachedData
+224\t1780134766\t2026-05-30 17:52:46 +0800\t/Users/USER/Library/Caches/com.apple.amsaccountsd
+96\t1786936649\t2026-08-17 11:17:29 +0800\t/Users/USER/Library/Caches/com.apple.amsaccountsd/fsCachedData
+96\t1786513316\t2026-08-12 13:41:56 +0800\t/Users/USER/Library/Caches/FamilyCircle
+128\t1783434582\t2026-07-07 22:29:42 +0800\t/Users/USER/Library/Caches/io.github.clash-verge-rev.clash-verge-rev
+192\t1786325690\t2026-08-10 09:34:50 +0800\t/Users/USER/Library/Caches/io.github.clash-verge-rev.clash-verge-rev/WebKit
+96\t1786605142\t2026-08-13 15:12:22 +0800\t/Users/USER/Library/Caches/node-gyp
+128\t1786605144\t2026-08-13 15:12:24 +0800\t/Users/USER/Library/Caches/node-gyp/22.16.0
+96\t1783256067\t2026-07-05 20:54:27 +0800\t/Users/USER/Library/Caches/prisma-nodejs
+224\t1780134621\t2026-05-30 17:50:21 +0800\t/Users/USER/Library/Caches/com.apple.AMPLibraryAgent
+128\t1786952451\t2026-08-17 15:40:51 +0800\t/Users/USER/Library/Caches/com.apple.AMPLibraryAgent/fsCachedData
+64\t1780227689\t2026-05-31 19:41:29 +0800\t/Users/USER/Library/Caches/ARFileCache
+192\t1780134422\t2026-05-30 17:47:02 +0800\t/Users/USER/Library/Caches/com.apple.appstorecomponentsd
+512\t1780136071\t2026-05-30 18:14:31 +0800\t/Users/USER/Library/Caches/com.apple.appstorecomponentsd/fsCachedData
+96\t1785594829\t2026-08-01 22:33:49 +0800\t/Users/USER/Library/Caches/com.apple.commerce
+160\t1786947790\t2026-08-17 14:23:10 +0800\t/Users/USER/Library/Caches/com.apple.feedbacklogger
+160\t1780134334\t2026-05-30 17:45:34 +0800\t/Users/USER/Library/Caches/com.apple.feedbacklogger/com.apple.siri.telemetry
+192\t1785594825\t2026-08-01 22:33:45 +0800\t/Users/USER/Library/Caches/com.apple.askpermissiond
+64\t1786501859\t2026-08-12 10:30:59 +0800\t/Users/USER/Library/Caches/com.apple.askpermissiond/fsCachedData
+192\t1780134303\t2026-05-30 17:45:03 +0800\t/Users/USER/Library/Caches/askpermissiond
+96\t1785588599\t2026-08-01 20:49:59 +0800\t/Users/USER/Library/Caches/askpermissiond/fsCachedData
+96\t1780134312\t2026-05-30 17:45:12 +0800\t/Users/USER/Library/Caches/com.apple.duetexpertd
+96\t1786197834\t2026-08-08 22:03:54 +0800\t/Users/USER/Library/Caches/com.apple.duetexpertd/com.apple.e5rt.e5bundlecache
+224\t1780134309\t2026-05-30 17:45:09 +0800\t/Users/USER/Library/Caches/com.apple.ap.PromotedContentJetService
+64\t1785588600\t2026-08-01 20:50:00 +0800\t/Users/USER/Library/Caches/com.apple.ap.PromotedContentJetService/fsCachedData
+128\t1786197781\t2026-08-08 22:03:01 +0800\t/Users/USER/Library/Caches/com.apple.ap.PromotedContentJetService/JetPackCache
+96\t1780134587\t2026-05-30 17:49:47 +0800\t/Users/USER/Library/Caches/com.apple.iTunes
+192\t1784123059\t2026-07-15 21:44:19 +0800\t/Users/USER/Library/Caches/com.apple.iTunes/CommerceRequestCache
+96\t1785931491\t2026-08-05 20:04:51 +0800\t/Users/USER/Library/Caches/com.wails.reasonix-desktop
+192\t1786350044\t2026-08-10 16:20:44 +0800\t/Users/USER/Library/Caches/com.wails.reasonix-desktop/WebKit
+64\t1780135304\t2026-05-30 18:01:44 +0800\t/Users/USER/Library/Caches/com.apple.homed
+192\t1780134430\t2026-05-30 17:47:10 +0800\t/Users/USER/Library/Caches/com.apple.watchlistd
+96\t1780134430\t2026-05-30 17:47:10 +0800\t/Users/USER/Library/Caches/com.apple.watchlistd/fsCachedData
+64\t1780547171\t2026-06-04 12:26:11 +0800\t/Users/USER/Library/Caches/com.onevcat.Kingfisher.ImageCache.default
+160\t1780134614\t2026-05-30 17:50:14 +0800\t/Users/USER/Library/Caches/com.apple.donotdisturbd
+160\t1786946286\t2026-08-17 13:58:06 +0800\t/Users/USER/Library/Caches/com.apple.translationd

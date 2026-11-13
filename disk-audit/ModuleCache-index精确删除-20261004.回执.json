@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-04T21:29:33.935049+08:00",
+  "paths": [
+    "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/ModuleCache",
+    "/Users/USER/Documents/app/.agents/tools/XcodeGen/.build/arm64-apple-macosx/debug/index"
+  ],
+  "guards": [],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 24556760,
+    "mount": "/System/Volumes/Data"
+  },
+  "deleted": true,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 24738764,
+    "mount": "/System/Volumes/Data"
+  },
+  "paths_absent": true,
+  "parent_exists": true,
+  "executable_exists": true,
+  "backup_directories_exist": true,
+  "net_available_bytes": 186372096
+}

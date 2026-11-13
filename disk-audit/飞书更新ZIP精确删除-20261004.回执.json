@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-04T21:36:41.213079+08:00",
+  "target": "/Users/USER/Library/Application Support/LarkShell/update/update_downloading/e3d6fa27cc994d00d69c480d17f1d870-0f304556f956a315e4db56a1c3e12cbf-1th.zip",
+  "allocated_bytes": 569950208,
+  "archive_entries": 6732,
+  "guards": [],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 24679232,
+    "mount": "/System/Volumes/Data"
+  },
+  "deleted": true,
+  "target_absent": true,
+  "parent_exists": true,
+  "siblings_metadata_unchanged": true,
+  "sibling_count": 0,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 25236164,
+    "mount": "/System/Volumes/Data"
+  },
+  "net_available_bytes": 570298368
+}

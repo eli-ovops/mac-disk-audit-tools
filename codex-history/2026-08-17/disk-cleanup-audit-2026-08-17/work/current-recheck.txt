@@ -1,0 +1,31 @@
+-- current key directory sizes --
+1300788	/Users/USER/Library/Caches/Codex
+meta=128\tmtime=2026-08-14 10:49:08 +0800\tpath=/Users/USER/Library/Caches/Codex
+1033172	/Users/USER/Library/Caches/Google
+meta=128\tmtime=2026-08-16 17:08:30 +0800\tpath=/Users/USER/Library/Caches/Google
+368728	/Users/USER/Library/Caches/pnpm
+meta=224\tmtime=2026-08-14 16:45:40 +0800\tpath=/Users/USER/Library/Caches/pnpm
+65668	/Users/USER/Library/Caches/reasonix
+meta=192\tmtime=2026-08-06 10:41:32 +0800\tpath=/Users/USER/Library/Caches/reasonix
+11497788	/Users/USER/Documents/app
+meta=1856\tmtime=2026-08-17 10:40:07 +0800\tpath=/Users/USER/Documents/app
+3042468	/Users/USER/Documents/Codex
+meta=1728\tmtime=2026-08-17 15:39:03 +0800\tpath=/Users/USER/Documents/Codex
+2858748	/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04
+meta=3968\tmtime=2026-08-17 15:19:16 +0800\tpath=/Users/USER/Documents/app/自律宠物-iOS/.codex-derived-data-v04
+58368	/Users/USER/Documents/app/自律宠物-iOS/build
+meta=256\tmtime=2026-08-16 14:18:21 +0800\tpath=/Users/USER/Documents/app/自律宠物-iOS/build
+1179424	/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs
+meta=128\tmtime=2026-07-30 14:31:37 +0800\tpath=/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs
+642000	/Volumes/EXTERNAL/wl/output
+meta=384\tmtime=2026-08-14 14:25:47 +0800\tpath=/Volumes/EXTERNAL/wl/output
+363016	/Volumes/EXTERNAL/wl/tmp
+meta=512\tmtime=2026-08-13 18:31:42 +0800\tpath=/Volumes/EXTERNAL/wl/tmp
+652104	/Volumes/EXTERNAL/DSH Desktop Installer
+meta=128\tmtime=2026-08-16 19:43:01 +0800\tpath=/Volumes/EXTERNAL/DSH Desktop Installer
+-- current large files --
+333873316\t2026-08-16 19:43:15 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.complete.dmg
+333873316\t2026-08-16 19:43:08 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.dmg
+227095411\t2026-07-23 20:25:01 +0800\t/Users/USER/Documents/Codex/2026-07-20/new-chat/乔帮主会话全部内容与蒸馏源文件_2026-07-23.zip
+191104064\t2026-08-15 22:07:25 +0800\t/Volumes/EXTERNAL/Applications/DSH Desktop.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework
+137356216\t2026-08-12 09:26:32 +0800\t/Volumes/EXTERNAL/Downloads/penguin-desktop-darwin-arm64.dmg

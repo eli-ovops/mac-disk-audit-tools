@@ -1,0 +1,127 @@
+{
+  "time": "2026-10-04T22:19:18.301260+08:00",
+  "target": "/Users/USER/.npm/_cacache",
+  "mcp_process_evidence": [
+    {
+      "pid": 2220,
+      "elapsed": "03:05:06",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 2221,
+      "elapsed": "03:05:06",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 2234,
+      "elapsed": "03:05:06",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4403,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4407,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4410,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4481,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4482,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4487,
+      "elapsed": "02:44:18",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4865,
+      "elapsed": "02:44:10",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4871,
+      "elapsed": "02:44:10",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 4878,
+      "elapsed": "02:44:10",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 10806,
+      "elapsed": "01:21:36",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 10813,
+      "elapsed": "01:21:36",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    },
+    {
+      "pid": 10815,
+      "elapsed": "01:21:36",
+      "state": "S",
+      "descendant_count": 1,
+      "installed_npx_child_started": true
+    }
+  ],
+  "guards": [],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 28287796
+  },
+  "deleted": true,
+  "tmp_entry_count": 7,
+  "tmp_newest_age_seconds": 2516368.4509642124,
+  "target_absent": true,
+  "npm_parent_exists": true,
+  "npx_preserved": true,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 28995104
+  },
+  "net_available_bytes": 724283392
+}

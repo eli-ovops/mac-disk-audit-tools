@@ -1,0 +1,8 @@
+-- large candidate files: Downloads/Pictures/Movies --
+1190252072\t1786604044\t2026-08-13 14:54:04 +0800\t/Users/USER/Downloads/motionsites.ai.zip
+-- large candidate files: Documents, bounded/pruned --
+227095411\t1784809501\t2026-07-23 20:25:01 +0800\t/Users/USER/Documents/Codex/2026-07-20/new-chat/乔帮主会话全部内容与蒸馏源文件_2026-07-23.zip
+-- large candidate files: lexar selected, bounded/pruned --
+333873316\t1786880595\t2026-08-16 19:43:15 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.complete.dmg
+333873316\t1786880588\t2026-08-16 19:43:08 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.dmg
+137356216\t1786497992\t2026-08-12 09:26:32 +0800\t/Volumes/EXTERNAL/Downloads/penguin-desktop-darwin-arm64.dmg

@@ -1,0 +1,28 @@
+{
+  "time": "2026-10-04T21:52:18.502498+08:00",
+  "app": "/Users/USER/Library/Application Support/LarkShell/update/update.noindex/Lark.app",
+  "removed_directory": "/Users/USER/Library/Application Support/LarkShell/update",
+  "allocated_bytes": 1529655296,
+  "bundle_id": "com.electron.lark",
+  "team_id": "XY6NLV7YTS",
+  "guards": [],
+  "before_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 26905376
+  },
+  "deleted": true,
+  "retained": [
+    "Application Support/lark-cli: ownership/dependencies UNKNOWN",
+    "Keychain",
+    "cloud data"
+  ],
+  "app_absent": true,
+  "update_absent": true,
+  "link_absent": true,
+  "larkshell_absent": true,
+  "after_df": {
+    "device": "/dev/disk3s5",
+    "available_kib": 28408056
+  },
+  "net_available_bytes": 1538744320
+}

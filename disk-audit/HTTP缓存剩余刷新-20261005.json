@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-10-05T09:20:50.057997+08:00",
+  "items": [
+    {
+      "path": "/Users/USER/Library/Caches/Google/Chrome/Default/Cache",
+      "exists": true,
+      "symlink": false,
+      "realpath": "/Users/USER/Library/Caches/Google/Chrome/Default/Cache",
+      "allocated_bytes": 845594624,
+      "open_handle_count": 1,
+      "open_pids": [
+        "11335"
+      ],
+      "type": "HTTP cache",
+      "impact": "Lose cached/offline resources; subsequent access downloads again",
+      "recovery": "Network redownload; original resources availability/time UNKNOWN",
+      "native_exact_cleanup_coverage": "UNKNOWN"
+    },
+    {
+      "path": "/Users/USER/Library/Caches/Codex/Default/Cache",
+      "exists": true,
+      "symlink": false,
+      "realpath": "/Users/USER/Library/Caches/Codex/Default/Cache",
+      "allocated_bytes": 810676224,
+      "open_handle_count": 1,
+      "open_pids": [
+        "1971"
+      ],
+      "type": "HTTP cache",
+      "impact": "Lose cached/offline resources; subsequent access downloads again",
+      "recovery": "Network redownload; original resources availability/time UNKNOWN",
+      "native_exact_cleanup_coverage": "UNKNOWN"
+    },
+    {
+      "path": "/Users/USER/Library/Caches/Codex/Default/Partitions/codex-browser-app/Cache",
+      "exists": true,
+      "symlink": false,
+      "realpath": "/Users/USER/Library/Caches/Codex/Default/Partitions/codex-browser-app/Cache",
+      "allocated_bytes": 806789120,
+      "open_handle_count": 1,
+      "open_pids": [
+        "1971"
+      ],
+      "type": "HTTP cache",
+      "impact": "Lose cached/offline resources; subsequent access downloads again",
+      "recovery": "Network redownload; original resources availability/time UNKNOWN",
+      "native_exact_cleanup_coverage": "UNKNOWN"
+    }
+  ],
+  "df": "Filesystem   1024-blocks      Used Available Capacity iused     ifree %iused  Mounted on\n/dev/disk3s5   239362496 168517916  29586592    86% 1986963 295865920    1%   /System/Volumes/Data\n",
+  "lsof_returncode": 0,
+  "deleted": false,
+  "recommendation": "Approve Chrome exact cache only first; normal Chrome exit before deletion if open, do not force quit. Codex caches defer until a user-arranged exit and separate execution window."
+}

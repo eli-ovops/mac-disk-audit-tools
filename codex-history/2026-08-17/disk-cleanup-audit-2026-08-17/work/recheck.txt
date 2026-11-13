@@ -1,0 +1,38 @@
+-- recheck time and df --
+2026-08-17T07:41:54Z
+Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on
+/dev/disk3s5   239362496 198579844    9848808    96% 3119571    98488080    3%   /System/Volumes/Data
+/dev/disk3s5   239362496 198579844    9848808    96% 3119571    98488080    3%   /System/Volumes/Data
+/dev/disk7s1  2000478168   6179832 1994001152     1%  200660 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL
+-- current Downloads --
+total 3464
+-rw-r--r--@   1 cczij  staff     337 May 30 19:05 AGENTS.md
+-rw-r--r--@   1 cczij  staff    2171 May 30 19:05 CLAUDE.md
+-rw-r--r--@   1 cczij  staff   23109 Jul 23 18:46 P0-02_PRODUCT_IA.md
+drwxrwxr-x@  19 cczij  staff     608 Jul 31 16:06 PIC
+-rw-r--r--@   1 cczij  staff    1384 May 30 19:05 PROJECT_STATE.md
+drwxrwxr-x@  60 cczij  staff    1920 Aug 13 10:07 S2025春样品照片
+-rw-r--r--@   1 cczij  staff     781 May 30 19:05 TASK_CONTEXT.md
+drwxr-xr-x    3 cczij  staff      96 Jul 24 21:16 gpt下载
+drwx------@   6 cczij  staff     192 Jun  3 18:31 gtc_taipei_2026_codex_inputs_ready
+-rw-r--r--@   1 cczij  staff   62307 Jun  3 18:30 gtc_taipei_2026_codex_inputs_ready.zip
+-rw-r--r--@   1 cczij  staff  315980 Jul 21 18:33 index.html
+-rw-r--r--@   1 cczij  staff    3190 Aug 12 22:52 note-a14f69a2-d77f-4f90-bfd4-607373c77945.json
+drwxr-xr-x@   9 cczij  staff     288 Jun  1 23:02 space_first_patch
+drwxr-xr-x@   9 cczij  staff     288 Jun  1 22:59 space_first_patch 2
+drwxr-xr-x@   9 cczij  staff     288 Jun  1 22:59 space_first_patch 3
+drwxr-xr-x    3 cczij  staff      96 May 30 18:11 vpn
+drwxrwxr-x@ 314 cczij  staff   10048 Aug 11 16:06 产品图片
+-rw-r--r--@   1 cczij  staff  238665 Jul 25 16:34 微信图片_2026-07-25_163506_146.jpg
+-rw-r--r--@   1 cczij  staff  457263 Jul 18 21:01 未命名.key
+-rw-r--r--@   1 cczij  staff   89721 Jul 18 21:00 未命名.pages
+-rw-r--r--@   1 cczij  staff  549406 Jul 18 21:02 测试.pages
+drwxrwxr-x@  18 cczij  staff     576 Aug  1 22:55 破甲提示词整理
+-- prior high-value paths existence --
+ABSENT	/Users/USER/Downloads/motionsites.ai.zip
+ABSENT	/Users/USER/Downloads/review-render.mp4
+ABSENT	/Users/USER/Downloads/review-render (1).mp4
+ABSENT	/Users/USER/Downloads/onboarding-to-completion-candidate.mp4
+ABSENT	/Users/USER/Downloads/IMG_2862.MP4
+PRESENT\t128\t2026-07-30 14:31:37 +0800\t/Users/USER/Documents/Codex/2026-07-30/motionsites/outputs
+PRESENT\t333873316\t2026-08-16 19:43:15 +0800\t/Volumes/EXTERNAL/DSH Desktop Installer/DSH-Desktop-2.0.0-arm64.complete.dmg
